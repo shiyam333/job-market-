@@ -1,0 +1,11 @@
+Metric,Value
+Total Job Postings,1000
+Average Salary,1155227.92
+Median Salary,1124336.0
+Minimum Average Salary,364512.5
+Maximum Average Salary,2028114.44
+Most Common Job Title,Business Analyst
+Most Common Location,Pune
+Most In-Demand Skill,SQL
+Linear Regression R2,0.9443
+Random Forest R2,0.9326

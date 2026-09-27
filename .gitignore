@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Freshly generated run output (sample_outputs/ is committed on purpose,
+# but re-running the script locally regenerates a plain "outputs/" folder
+# at the project root -- keep that one out of git)
+/outputs/
+
+# Editor
+.vscode/
+.idea/

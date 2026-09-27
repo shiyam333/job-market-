@@ -1,0 +1,1001 @@
+Job_ID,Job_Title,Company,Location,Salary_Min,Salary_Max,Experience,Skills,Employment_Type,Posted_Date
+J1001,Python Developer,Cognizant,Hyderabad,1486265.0,1673763.0,8+ years,"SQL, Tableau",Part-time,2026-03-29
+J1002,SQL Developer,Accenture,Hyderabad,1497969.0,1865424.0,8+ years,"Python, SQL",Contract,2026-10-04
+J1003,Data Analyst,Accenture,,,1775161.0,8+ years,"Python, Machine Learning",Full-time,2026-07-07
+J1004,Power BI Developer,Deloitte,Delhi,946803.0,1078354.0,4-6 years,"Python, Machine Learning",Part-time,2026-05-11
+J1005,SQL Developer,Wipro,Mumbai,480627.0,851563.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-11-12
+J1006,Power BI Developer,Infosys,Bangalore,643483.0,792038.0,0-2 years,"Python, SQL",Full-time,2026-09-21
+J1007,Business Analyst,Deloitte,Chennai,1166557.0,1474818.0,6-8 years,"Python, SQL",Contract,2026-02-23
+J1008,Data Scientist,Accenture,Delhi,1682409.0,1984692.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-06-11
+J1009,Data Scientist,Deloitte,Pune,1375591.0,1696475.0,6-8 years,"Python, SQL, Power BI",Contract,2026-07-27
+J1010,SQL Developer,Infosys,Mumbai,758044.0,907028.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-11-23
+J1011,Data Analyst,TCS,Pune,903159.0,1017145.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-10-16
+J1012,Business Analyst,Cognizant,Bangalore,708392.0,838927.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-09-25
+J1013,Data Scientist,TCS,Delhi,1634538.0,1936202.0,8+ years,"SQL, Excel, Power BI",Contract,2026-08-15
+J1014,SQL Developer,HCL,Delhi,1008806.0,1199788.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-10-10
+J1015,Data Analyst,HCL,Bangalore,750015.0,1098565.0,2-4 years,"Python, Machine Learning",Full-time,2026-08-29
+J1016,Python Developer,Cognizant,Pune,1526044.0,1824330.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-06-20
+J1017,SQL Developer,Accenture,Mumbai,942299.0,1085884.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-06-19
+J1018,SQL Developer,Deloitte,Chennai,1392941.0,1645847.0,8+ years,"Python, SQL, Excel",Contract,2026-05-08
+J1019,Data Scientist,HCL,Pune,643776.0,904928.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-10-10
+J1020,Power BI Developer,TCS,Pune,1498053.0,1620012.0,8+ years,"Python, SQL, Power BI",Part-time,2026-05-17
+J1021,Power BI Developer,Cognizant,Chennai,893530.0,1054617.0,4-6 years,"Python, SQL",Part-time,2026-04-06
+J1022,Data Analyst,Accenture,Chennai,365318.0,706343.0,0-2 years,"Python, SQL",Contract,2026-04-23
+J1023,SQL Developer,TCS,Chennai,800854.0,1170390.0,4-6 years,"Python, SQL, Power BI",Contract,2026-05-06
+J1024,Data Scientist,Cognizant,Pune,840467.0,1124201.0,2-4 years,"Python, SQL, Excel",Part-time,2026-07-22
+J1025,Business Analyst,TCS,Delhi,1525733.0,1714778.0,8+ years,"Python, Machine Learning",Contract,2026-08-28
+J1026,Data Analyst,TCS,Pune,961906.0,1195789.0,4-6 years,"Python, SQL, Excel",Full-time,2026-12-12
+J1027,Business Analyst,HCL,Hyderabad,,1486191.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-02-08
+J1028,Data Scientist,TCS,Hyderabad,1427254.0,1811316.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-10-25
+J1029,Business Analyst,HCL,Pune,722049.0,984737.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-10-31
+J1030,Power BI Developer,Accenture,Mumbai,1533016.0,1902560.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-04-09
+J1031,Business Analyst,Wipro,Pune,452711.0,820394.0,0-2 years,"Python, Machine Learning",Part-time,2026-04-14
+J1032,Python Developer,Deloitte,Hyderabad,648497.0,926544.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-12-04
+J1033,Data Scientist,Deloitte,Hyderabad,1718467.0,2103939.0,8+ years,"Python, SQL, Power BI",Full-time,2026-10-04
+J1034,Python Developer,HCL,Hyderabad,520818.0,,0-2 years,"Python, SQL, Power BI",Part-time,2026-01-22
+J1035,Power BI Developer,Deloitte,Delhi,1485895.0,1736705.0,8+ years,"SQL, Excel, Power BI",Contract,2026-01-27
+J1036,Data Scientist,Cognizant,Delhi,565600.0,891332.0,0-2 years,"Python, Machine Learning",Part-time,2026-11-13
+J1037,Business Analyst,Accenture,Hyderabad,523484.0,706473.0,0-2 years,"Python, SQL, Power BI",Contract,2026-01-06
+J1038,Business Analyst,Accenture,Chennai,1450301.0,1665595.0,8+ years,"SQL, Tableau",Full-time,2026-04-09
+J1039,Python Developer,TCS,Pune,1520336.0,1738351.0,8+ years,"SQL, Tableau",Part-time,2026-11-19
+J1040,Data Scientist,TCS,Bangalore,936631.0,,2-4 years,"SQL, Excel, Power BI",Contract,2026-10-15
+J1041,Power BI Developer,HCL,Bangalore,1065017.0,6000000.0,4-6 years,"Python, SQL",Contract,2026-04-14
+J1042,Data Analyst,TCS,Hyderabad,1379689.0,1715051.0,8+ years,"Python, SQL",Part-time,2026-11-02
+J1043,Data Analyst,Cognizant,Pune,690316.0,1048383.0,2-4 years,"Python, SQL, Power BI, Excel",Full-time,2026-11-17
+J1044,Power BI Developer,Deloitte,Pune,903403.0,1035500.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-11-18
+J1045,Power BI Developer,Wipro,Chennai,670300.0,1055121.0,2-4 years,"Python, SQL, Power BI, Excel",Contract,2026-11-10
+J1046,Data Scientist,Deloitte,Chennai,1303006.0,1516638.0,6-8 years,"Python, SQL",Contract,2026-09-21
+J1047,SQL Developer,Accenture,Pune,1157235.0,1454719.0,6-8 years,"SQL, Tableau",Part-time,2026-12-16
+J1048,Business Analyst,HCL,Pune,1553613.0,1876479.0,8+ years,"Python, SQL",Contract,2026-05-25
+J1049,Business Analyst,Accenture,Bangalore,758308.0,1126401.0,2-4 years,"SQL, Tableau",Contract,2026-10-06
+J1050,Data Analyst,Accenture,Mumbai,436896.0,714143.0,0-2 years,"Python, SQL",Contract,2026-05-06
+J1051,Power BI Developer,TCS,Mumbai,1643222.0,1772597.0,8+ years,"Python, SQL, Power BI",Full-time,2026-03-10
+J1052,Power BI Developer,Cognizant,Hyderabad,1163284.0,1467145.0,6-8 years,"Python, SQL",Part-time,2026-07-04
+J1053,SQL Developer,Deloitte,Pune,1521293.0,1700074.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-07-23
+J1054,Data Scientist,Infosys,Mumbai,1429101.0,1817891.0,6-8 years,"Python, SQL, Power BI",Contract,2026-09-07
+J1055,Data Scientist,Deloitte,Mumbai,1385417.0,1508706.0,6-8 years,"Python, SQL",Part-time,2026-05-27
+J1056,Data Scientist,TCS,Mumbai,1650977.0,1845681.0,8+ years,"Python, Machine Learning",Part-time,2026-06-09
+J1057,Business Analyst,Accenture,Pune,724000.0,1025660.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-06-28
+J1058,Business Analyst,Cognizant,Pune,1039449.0,1222435.0,4-6 years,,Full-time,2026-02-13
+J1059,SQL Developer,Cognizant,Pune,597350.0,790358.0,2-4 years,"SQL, Tableau",Part-time,2026-03-31
+J1060,SQL Developer,Infosys,Bangalore,757458.0,1139960.0,2-4 years,"Python, SQL, Excel",Contract,2026-07-15
+J1061,Data Scientist,Cognizant,Bangalore,1757543.0,1918235.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-09-06
+J1062,Python Developer,Infosys,Mumbai,703042.0,889041.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-02-05
+J1063,Data Scientist,TCS,Delhi,1680150.0,1851330.0,8+ years,"Python, Machine Learning",Full-time,2026-10-06
+J1064,Data Analyst,Wipro,Chennai,341555.0,619586.0,0-2 years,"Python, SQL, Power BI",Contract,2026-08-05
+J1065,Power BI Developer,Cognizant,Hyderabad,1072936.0,1373904.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-10-11
+J1066,Power BI Developer,HCL,Pune,898335.0,1124355.0,4-6 years,"Python, SQL",Part-time,2026-04-09
+J1067,Python Developer,TCS,Pune,1080566.0,1378341.0,4-6 years,"SQL, Tableau",Full-time,2026-02-26
+J1068,SQL Developer,Cognizant,Bangalore,709348.0,847450.0,2-4 years,"Python, SQL, Power BI, Excel",Contract,2026-08-09
+J1069,Business Analyst,Wipro,Bangalore,1332873.0,1664788.0,6-8 years,"Python, SQL, Power BI",Contract,2026-09-10
+J1070,Power BI Developer,HCL,Delhi,1623105.0,1943035.0,8+ years,"Python, SQL",Full-time,2026-05-02
+J1071,Data Scientist,Cognizant,Mumbai,1648295.0,1762102.0,8+ years,"Python, SQL, Excel",Part-time,2026-12-31
+J1072,Data Analyst,Deloitte,Pune,357080.0,624061.0,0-2 years,"Python, SQL, Power BI, Excel",Part-time,2026-09-09
+J1073,Business Analyst,Cognizant,Pune,1013714.0,1129199.0,4-6 years,"Python, SQL",Contract,2026-06-22
+J1074,SQL Developer,Infosys,Pune,695470.0,968886.0,2-4 years,"Python, Machine Learning",Full-time,2026-01-01
+J1075,Business Analyst,Cognizant,Pune,543960.0,939695.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-04-27
+J1076,Power BI Developer,Infosys,Pune,,1853273.0,8+ years,"SQL, Tableau",Full-time,2026-09-09
+J1077,SQL Developer,Accenture,Hyderabad,1001726.0,1119366.0,4-6 years,"Python, Machine Learning",Full-time,2026-11-01
+J1078,Power BI Developer,HCL,Chennai,1488866.0,1739025.0,8+ years,"Python, SQL, Excel",Contract,2026-01-12
+J1079,Data Scientist,Deloitte,Pune,1366427.0,1572214.0,6-8 years,"SQL, Tableau",Contract,2026-06-27
+J1080,Python Developer,Accenture,Mumbai,567605.0,834224.0,0-2 years,"Python, Machine Learning",Part-time,2026-08-28
+J1081,SQL Developer,Cognizant,Delhi,865713.0,1021891.0,4-6 years,"SQL, Tableau",Contract,2026-09-13
+J1082,SQL Developer,HCL,Chennai,573793.0,899949.0,2-4 years,"Python, SQL",Contract,2026-01-05
+J1083,Data Analyst,Deloitte,Chennai,612292.0,998269.0,2-4 years,"Python, SQL, Power BI, Excel",Full-time,2026-03-04
+J1084,Data Analyst,Deloitte,Hyderabad,900384.0,1280545.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-04-15
+J1085,Business Analyst,HCL,Chennai,1412763.0,1662219.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-07-16
+J1086,SQL Developer,Deloitte,Hyderabad,1549172.0,1922232.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-07-21
+J1087,Data Scientist,Wipro,Chennai,1638765.0,1760714.0,8+ years,"Python, SQL, Excel",Full-time,2026-10-15
+J1088,Data Scientist,Accenture,Bangalore,943125.0,1137199.0,2-4 years,"Python, SQL",Contract,2026-11-02
+J1089,Python Developer,TCS,Delhi,1234285.0,1634055.0,6-8 years,"SQL, Tableau",Contract,2026-11-09
+J1090,Data Analyst,HCL,Mumbai,1512234.0,1693551.0,8+ years,"Python, SQL, Excel",Contract,2026-07-11
+J1091,Python Developer,Infosys,Delhi,716941.0,842875.0,2-4 years,"Python, SQL",Contract,2026-12-13
+J1092,Business Analyst,HCL,Bangalore,1306800.0,1657675.0,6-8 years,"Python, SQL, Power BI",Contract,2026-01-30
+J1093,Data Scientist,Wipro,Chennai,1605479.0,1921943.0,8+ years,"SQL, Tableau",Contract,2026-11-26
+J1094,Data Analyst,Accenture,Pune,1384388.0,1489957.0,8+ years,"Python, SQL",Contract,2026-07-24
+J1095,Power BI Developer,Wipro,Hyderabad,917144.0,1172430.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-07-02
+J1096,Business Analyst,Deloitte,Pune,1203807.0,1332539.0,6-8 years,"Python, SQL, Power BI",Part-time,2026-05-02
+J1097,Business Analyst,Wipro,Mumbai,1556668.0,1941873.0,8+ years,"Python, SQL",Contract,2026-11-22
+J1098,Data Analyst,Cognizant,Chennai,,1243610.0,6-8 years,"Python, SQL",Contract,2026-10-28
+J1099,Business Analyst,TCS,Bangalore,643221.0,1002348.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-12-16
+J1100,Business Analyst,HCL,Mumbai,629399.0,948202.0,0-2 years,"Python, SQL",Full-time,2026-07-26
+J1101,Power BI Developer,Deloitte,Bangalore,1314247.0,1659368.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-12-31
+J1102,Data Scientist,Deloitte,Hyderabad,1048030.0,1186668.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-10-01
+J1103,Data Scientist,Deloitte,Hyderabad,1168518.0,1409857.0,4-6 years,,Full-time,2026-07-21
+J1104,Data Analyst,TCS,Delhi,613596.0,821695.0,2-4 years,"Python, SQL, Excel",Full-time,2026-03-08
+J1105,Data Analyst,Cognizant,Bangalore,1229905.0,1342815.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-09-21
+J1106,Data Analyst,Accenture,Hyderabad,692981.0,978606.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-11-16
+J1107,Data Scientist,Wipro,Hyderabad,1708024.0,1997752.0,8+ years,"Python, SQL, Excel",Full-time,2026-05-30
+J1108,SQL Developer,Deloitte,Delhi,1136125.0,1381115.0,6-8 years,"Python, SQL, Excel",Part-time,2026-06-01
+J1109,Data Analyst,HCL,Hyderabad,956323.0,1327578.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-08-11
+J1110,Power BI Developer,Infosys,,1140117.0,1352338.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-03-03
+J1111,Data Analyst,Infosys,Hyderabad,727579.0,965120.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-04-28
+J1112,Python Developer,Wipro,Pune,637584.0,842121.0,0-2 years,,Full-time,2026-05-22
+J1113,Power BI Developer,Cognizant,,1027362.0,1409634.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-06-27
+J1114,Data Scientist,Cognizant,Bangalore,1455287.0,1812952.0,6-8 years,"Python, SQL",Full-time,2026-03-25
+J1115,Data Analyst,HCL,Mumbai,563070.0,742837.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-02-07
+J1116,Business Analyst,Deloitte,Chennai,1467444.0,,8+ years,"Python, SQL, Excel",Contract,2026-05-17
+J1117,Data Scientist,Accenture,Hyderabad,1085951.0,1273339.0,4-6 years,"Python, SQL, Power BI",Contract,2026-11-24
+J1118,Business Analyst,TCS,Mumbai,1256740.0,1372264.0,6-8 years,"Python, SQL, Excel",Part-time,2026-01-05
+J1119,Business Analyst,Wipro,Delhi,724060.0,1038117.0,2-4 years,"Python, SQL, Excel",Full-time,2026-03-30
+J1120,Data Scientist,HCL,Delhi,1131520.0,1449654.0,4-6 years,"SQL, Tableau",Contract,2026-03-04
+J1121,Data Analyst,TCS,Chennai,268381.0,460644.0,0-2 years,"Python, SQL, Power BI, Excel",Part-time,2026-02-08
+J1122,Business Analyst,Deloitte,Delhi,884519.0,1252071.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-08-19
+J1123,Business Analyst,Accenture,,634484.0,5000000.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-10-16
+J1124,Power BI Developer,Accenture,Delhi,773872.0,920069.0,2-4 years,"Python, SQL",Full-time,2026-10-21
+J1125,SQL Developer,HCL,Pune,1390103.0,1554875.0,8+ years,"Python, Machine Learning",Part-time,2026-06-06
+J1126,Python Developer,Accenture,Mumbai,759666.0,989996.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-03-10
+J1127,Python Developer,Wipro,,722999.0,878317.0,2-4 years,"Python, SQL, Excel",Contract,2026-10-30
+J1128,Data Scientist,Deloitte,Hyderabad,1453319.0,1679204.0,6-8 years,"Python, SQL",Full-time,2026-07-29
+J1129,Data Analyst,TCS,Pune,930279.0,1030405.0,4-6 years,"Python, Machine Learning",Full-time,2026-04-16
+J1130,Data Analyst,Accenture,Bangalore,444327.0,679196.0,0-2 years,"Python, SQL, Excel",Part-time,2026-09-24
+J1131,Data Analyst,Deloitte,Mumbai,1467523.0,1691608.0,8+ years,"Python, SQL",Contract,2026-11-09
+J1132,Data Analyst,HCL,Delhi,,1029239.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-11-09
+J1133,SQL Developer,Infosys,Chennai,949929.0,1289619.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-10-21
+J1134,Data Scientist,HCL,Bangalore,1136368.0,1374223.0,4-6 years,"Python, SQL",Part-time,2026-12-30
+J1135,Business Analyst,Wipro,Delhi,,798923.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-06-10
+J1136,Data Analyst,Cognizant,Hyderabad,607696.0,954422.0,2-4 years,"Python, Machine Learning",Contract,2026-12-03
+J1137,Python Developer,TCS,Chennai,1246731.0,1499369.0,6-8 years,"Python, SQL, Excel",Contract,2026-07-08
+J1138,Data Analyst,HCL,Chennai,1252482.0,1639068.0,8+ years,"Python, SQL, Excel",Part-time,2026-07-30
+J1139,Power BI Developer,Deloitte,Mumbai,680397.0,853244.0,0-2 years,"SQL, Tableau",Full-time,2026-01-19
+J1140,Data Scientist,TCS,Delhi,1088865.0,1326582.0,4-6 years,"Python, SQL, Power BI, Excel",Contract,2026-04-23
+J1141,Data Scientist,Deloitte,Delhi,1162487.0,1536973.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-12-25
+J1142,Business Analyst,Infosys,Bangalore,1052603.0,1365649.0,4-6 years,"Python, SQL, Excel",Contract,2026-10-15
+J1143,Data Scientist,HCL,Mumbai,,1067928.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-09-12
+J1144,SQL Developer,Deloitte,Chennai,1324160.0,1525518.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-09-21
+J1145,Data Scientist,Wipro,Delhi,1196925.0,1541371.0,4-6 years,"Python, Machine Learning",Full-time,2026-11-07
+J1146,Data Scientist,HCL,Bangalore,803394.0,1070686.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-02-05
+J1147,SQL Developer,Accenture,Bangalore,673236.0,861191.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-01-11
+J1148,Data Scientist,HCL,Bangalore,1114596.0,1346947.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-08-10
+J1149,Data Analyst,Infosys,Mumbai,1137771.0,1494484.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-06-07
+J1150,Business Analyst,Deloitte,,652573.0,787940.0,2-4 years,,Full-time,2026-08-25
+J1151,Data Analyst,HCL,Chennai,826908.0,,4-6 years,"Python, SQL, Excel",Contract,2026-08-03
+J1152,SQL Developer,Wipro,Delhi,648243.0,936699.0,2-4 years,"SQL, Tableau",Contract,2026-02-03
+J1153,Data Analyst,Cognizant,Chennai,498756.0,639565.0,2-4 years,"Python, Machine Learning",Part-time,2026-12-08
+J1154,SQL Developer,Wipro,Chennai,897924.0,1222061.0,4-6 years,"Python, SQL",Full-time,2026-06-22
+J1155,Data Analyst,Infosys,Mumbai,1156397.0,1357768.0,6-8 years,"Python, SQL, Excel",Contract,2026-11-06
+J1156,Business Analyst,TCS,Hyderabad,1508617.0,1661893.0,8+ years,"Python, Machine Learning",Part-time,2026-05-29
+J1157,Business Analyst,Wipro,Pune,516999.0,801373.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-04-21
+J1158,Power BI Developer,Deloitte,Mumbai,557298.0,804220.0,0-2 years,"Python, SQL",Part-time,2026-12-03
+J1159,Power BI Developer,Wipro,Mumbai,1072921.0,1305517.0,4-6 years,"Python, SQL",Full-time,2026-03-14
+J1160,Data Analyst,TCS,Chennai,333559.0,488896.0,0-2 years,"SQL, Tableau",Part-time,2026-01-25
+J1161,Business Analyst,Wipro,,1585469.0,1706050.0,8+ years,"Python, Machine Learning",Part-time,2026-12-20
+J1162,Python Developer,Wipro,Mumbai,1226960.0,1507513.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-02-26
+J1163,Data Analyst,HCL,Pune,881344.0,1049301.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-07-17
+J1164,Data Analyst,Infosys,Chennai,1040600.0,1178241.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-01-16
+J1165,Data Analyst,HCL,Bangalore,1532310.0,1677123.0,8+ years,"Python, SQL, Excel",Contract,2026-12-01
+J1166,SQL Developer,HCL,Chennai,844934.0,1175810.0,4-6 years,"Python, SQL",Part-time,2026-03-23
+J1167,Power BI Developer,Accenture,Hyderabad,766150.0,953462.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-01-14
+J1168,Business Analyst,Accenture,Pune,1515402.0,1749457.0,8+ years,"Python, SQL",Part-time,2026-07-02
+J1169,Python Developer,HCL,Chennai,,1415981.0,6-8 years,"SQL, Tableau",Contract,2026-06-10
+J1170,SQL Developer,Infosys,Pune,622393.0,847734.0,2-4 years,"Python, SQL, Power BI, Excel",Part-time,2026-09-08
+J1171,SQL Developer,Cognizant,Bangalore,916371.0,1198627.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-11-14
+J1172,SQL Developer,Accenture,Chennai,1150072.0,1536790.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-12-25
+J1173,Python Developer,Cognizant,Chennai,533933.0,658884.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-06-07
+J1174,Data Scientist,Accenture,Bangalore,1840093.0,2183755.0,8+ years,"Python, SQL, Power BI",Full-time,2026-03-14
+J1175,Data Analyst,TCS,Pune,1137364.0,6000000.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-07-17
+J1176,Power BI Developer,Wipro,Delhi,1554262.0,1847545.0,8+ years,"Python, SQL",Full-time,2026-02-28
+J1177,Python Developer,Cognizant,Delhi,1594157.0,1755822.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-11-09
+J1178,Data Scientist,TCS,Chennai,,1005193.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-02-16
+J1179,Data Analyst,TCS,Hyderabad,1156172.0,1263829.0,6-8 years,"Python, SQL",Full-time,2026-06-27
+J1180,Data Scientist,Deloitte,Chennai,1054028.0,1423459.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-03-30
+J1181,Data Analyst,Accenture,Delhi,1393560.0,1736175.0,8+ years,,Part-time,2026-11-19
+J1182,Business Analyst,Accenture,Mumbai,658801.0,1046876.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-06-19
+J1183,Data Analyst,HCL,Chennai,1331121.0,1456680.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-05-04
+J1184,Power BI Developer,Wipro,Mumbai,749903.0,983995.0,2-4 years,"Python, SQL",Contract,2026-10-11
+J1185,SQL Developer,Cognizant,Chennai,552396.0,736478.0,2-4 years,"SQL, Tableau",Contract,2026-07-05
+J1186,Business Analyst,Infosys,Hyderabad,1616231.0,1985689.0,8+ years,"SQL, Tableau",Full-time,2026-12-02
+J1187,Python Developer,TCS,Hyderabad,1063130.0,1345958.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-12-11
+J1188,SQL Developer,Infosys,Pune,883620.0,1032494.0,4-6 years,"Python, SQL, Excel",Part-time,2026-02-14
+J1189,Data Scientist,TCS,Hyderabad,857236.0,999770.0,2-4 years,"Python, SQL",Part-time,2026-03-23
+J1190,Python Developer,Infosys,Delhi,1535713.0,1854048.0,8+ years,"SQL, Tableau",Part-time,2026-01-13
+J1191,Power BI Developer,Wipro,Chennai,442545.0,710928.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-12-10
+J1192,SQL Developer,Wipro,Delhi,839257.0,1083610.0,4-6 years,"Python, SQL, Excel",Part-time,2026-11-15
+J1193,Python Developer,Accenture,Delhi,1523507.0,1827174.0,8+ years,"SQL, Tableau",Contract,2026-12-18
+J1194,Python Developer,Infosys,Pune,1033888.0,1207497.0,4-6 years,"Python, SQL, Power BI",Contract,2026-07-12
+J1195,Power BI Developer,Infosys,Hyderabad,737567.0,952941.0,2-4 years,"Python, SQL",Contract,2026-10-12
+J1196,Python Developer,Accenture,Hyderabad,1057083.0,1375201.0,4-6 years,"Python, Machine Learning",Full-time,2026-01-29
+J1197,Business Analyst,TCS,Delhi,1006214.0,1117959.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-08-14
+J1198,SQL Developer,Accenture,Chennai,931958.0,1231908.0,4-6 years,,Full-time,2026-10-12
+J1199,SQL Developer,Wipro,Pune,672307.0,1056493.0,2-4 years,"Python, SQL, Power BI, Excel",Contract,2026-07-14
+J1200,Data Analyst,Deloitte,Pune,1159214.0,1472157.0,6-8 years,"SQL, Tableau",Full-time,2026-12-23
+J1201,Business Analyst,Accenture,Delhi,965626.0,1204122.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-02-27
+J1202,Python Developer,Deloitte,Bangalore,1732711.0,1859096.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-09-28
+J1203,Python Developer,Wipro,Pune,638916.0,944306.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-01-27
+J1204,Power BI Developer,Infosys,Pune,995655.0,1241978.0,4-6 years,"SQL, Tableau",Full-time,2026-02-15
+J1205,Data Analyst,Deloitte,Delhi,475455.0,650199.0,0-2 years,"Python, SQL, Excel",Full-time,2026-11-15
+J1206,Power BI Developer,Deloitte,Mumbai,1519759.0,1705467.0,8+ years,"Python, SQL",Part-time,2026-07-28
+J1207,SQL Developer,Infosys,Delhi,622046.0,879261.0,2-4 years,"Python, SQL, Excel",Part-time,2026-01-11
+J1208,SQL Developer,TCS,Chennai,1130087.0,1411089.0,6-8 years,"Python, SQL, Excel",Full-time,2026-08-02
+J1209,Business Analyst,TCS,Chennai,1138559.0,1483757.0,6-8 years,"Python, SQL, Power BI",Contract,2026-03-21
+J1210,Power BI Developer,Deloitte,Pune,1264663.0,1387094.0,6-8 years,"Python, SQL, Power BI",Contract,2026-08-30
+J1211,Python Developer,TCS,Bangalore,695004.0,1014728.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-04-26
+J1212,Data Scientist,Deloitte,Bangalore,981905.0,1209023.0,2-4 years,"Python, SQL, Excel",Contract,2026-04-16
+J1213,Python Developer,TCS,Hyderabad,1481925.0,1796973.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-09-19
+J1214,Data Analyst,HCL,Chennai,503389.0,628215.0,2-4 years,"Python, Machine Learning",Contract,2026-01-07
+J1215,Business Analyst,Accenture,Pune,703662.0,902480.0,2-4 years,"Python, SQL, Excel",Contract,2026-05-07
+J1216,Data Analyst,Accenture,Bangalore,972715.0,1214113.0,4-6 years,"Python, SQL",Contract,2026-01-12
+J1217,SQL Developer,TCS,Mumbai,890022.0,1060338.0,4-6 years,"Python, SQL",Part-time,2026-08-09
+J1218,SQL Developer,HCL,Hyderabad,1146082.0,1508887.0,6-8 years,"Python, SQL",Contract,2026-02-06
+J1219,Data Analyst,Wipro,Hyderabad,1124242.0,1459854.0,6-8 years,"Python, SQL",Part-time,2026-07-26
+J1220,Data Analyst,HCL,Pune,479321.0,711349.0,0-2 years,"Python, SQL, Excel",Full-time,2026-01-24
+J1221,Python Developer,Cognizant,Pune,1259443.0,1626290.0,6-8 years,"Python, Machine Learning",Contract,2026-04-15
+J1222,Python Developer,Infosys,Mumbai,796958.0,1185119.0,2-4 years,"Python, Machine Learning",Contract,2026-09-19
+J1223,Data Scientist,Wipro,Hyderabad,928364.0,1288480.0,2-4 years,"Python, SQL, Excel",Full-time,2026-08-13
+J1224,Business Analyst,Infosys,Pune,758397.0,1038622.0,2-4 years,"Python, Machine Learning",Contract,2026-10-20
+J1225,SQL Developer,Deloitte,Mumbai,566059.0,764376.0,0-2 years,"Python, SQL, Excel",Contract,2026-08-19
+J1226,Data Analyst,Accenture,Bangalore,592152.0,836984.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-06-13
+J1227,SQL Developer,HCL,Hyderabad,712189.0,1014521.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-09-23
+J1228,Python Developer,Deloitte,Chennai,423499.0,737066.0,0-2 years,"SQL, Tableau",Part-time,2026-10-11
+J1229,Data Analyst,Wipro,Mumbai,1562464.0,1895408.0,8+ years,"Python, Machine Learning",Full-time,2026-04-30
+J1230,Python Developer,Accenture,Delhi,1294707.0,1592283.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-10-20
+J1231,Python Developer,Infosys,Mumbai,606213.0,865689.0,0-2 years,"Python, SQL, Power BI, Excel",Part-time,2026-02-28
+J1232,SQL Developer,TCS,Chennai,841235.0,1189735.0,4-6 years,"Python, SQL, Excel",Contract,2026-08-30
+J1233,Business Analyst,Wipro,Delhi,721212.0,967682.0,2-4 years,"Python, SQL, Power BI",Contract,2026-08-11
+J1234,Business Analyst,Infosys,Pune,1202556.0,1304525.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-08-22
+J1235,Python Developer,HCL,Bangalore,1573196.0,1779019.0,8+ years,"Python, SQL, Power BI",Part-time,2026-12-24
+J1236,SQL Developer,HCL,Delhi,575577.0,800931.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-04-24
+J1237,Data Scientist,TCS,Bangalore,692823.0,894199.0,0-2 years,"Python, Machine Learning",Part-time,2026-05-27
+J1238,Power BI Developer,Cognizant,Mumbai,576059.0,779468.0,0-2 years,"Python, SQL",Contract,2026-07-11
+J1239,Power BI Developer,HCL,Chennai,542460.0,800740.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-09-02
+J1240,SQL Developer,HCL,Chennai,829165.0,996368.0,4-6 years,"Python, Machine Learning",Contract,2026-04-12
+J1241,Business Analyst,Deloitte,Bangalore,825426.0,943198.0,2-4 years,"SQL, Tableau",Full-time,2026-11-27
+J1242,Data Analyst,Deloitte,Delhi,399152.0,526875.0,0-2 years,"SQL, Tableau",Part-time,2026-07-18
+J1243,SQL Developer,Wipro,Pune,1478927.0,1658900.0,8+ years,"Python, SQL, Power BI",Full-time,2026-09-24
+J1244,Business Analyst,Deloitte,Delhi,737576.0,945098.0,2-4 years,"Python, SQL",Contract,2026-03-26
+J1245,Data Scientist,Infosys,Delhi,1361177.0,1597009.0,6-8 years,"SQL, Tableau",Full-time,2026-01-12
+J1246,SQL Developer,Infosys,Mumbai,1193770.0,1506551.0,6-8 years,"Python, Machine Learning",Part-time,2026-12-30
+J1247,Business Analyst,Wipro,Mumbai,1539967.0,1699149.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-04-27
+J1248,Python Developer,HCL,Chennai,1145379.0,1491279.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-10-02
+J1249,Data Scientist,Deloitte,Mumbai,1406378.0,1680102.0,6-8 years,"SQL, Tableau",Contract,2026-08-27
+J1250,Python Developer,Wipro,Bangalore,1312289.0,1588337.0,6-8 years,"Python, SQL, Excel",Contract,2026-03-18
+J1251,Python Developer,Infosys,Chennai,894139.0,1173924.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-02-08
+J1252,SQL Developer,HCL,Chennai,574611.0,782582.0,2-4 years,,Contract,2026-09-20
+J1253,Power BI Developer,TCS,Pune,1516666.0,1704870.0,8+ years,"Python, SQL",Part-time,2026-04-28
+J1254,SQL Developer,Deloitte,Pune,551929.0,,0-2 years,"Python, SQL",Full-time,2026-05-01
+J1255,SQL Developer,Infosys,Chennai,655826.0,894125.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-06-16
+J1256,Data Scientist,TCS,Bangalore,1218576.0,1578913.0,4-6 years,"Python, Machine Learning",Contract,2026-03-10
+J1257,Data Analyst,Wipro,Pune,600532.0,749636.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-05-30
+J1258,SQL Developer,HCL,Hyderabad,1137993.0,1443761.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-03-19
+J1259,SQL Developer,Cognizant,Chennai,304358.0,662039.0,0-2 years,"Python, SQL",Part-time,2026-11-19
+J1260,Data Scientist,Deloitte,Mumbai,682438.0,892285.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-07-07
+J1261,Power BI Developer,Wipro,Pune,721007.0,991611.0,2-4 years,"Python, SQL, Excel",Contract,2026-02-05
+J1262,SQL Developer,TCS,Pune,930106.0,1264671.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-07-15
+J1263,SQL Developer,TCS,Pune,738011.0,1136533.0,2-4 years,"Python, Machine Learning",Full-time,2026-06-09
+J1264,SQL Developer,Deloitte,Bangalore,,1219182.0,4-6 years,"Python, SQL, Excel",Full-time,2026-11-22
+J1265,Data Scientist,HCL,Pune,879686.0,1111419.0,2-4 years,"Python, SQL, Excel",Full-time,2026-10-27
+J1266,Data Scientist,Accenture,Mumbai,1688910.0,1814502.0,8+ years,"SQL, Tableau",Part-time,2026-11-07
+J1267,Data Scientist,Deloitte,Delhi,706479.0,957654.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-01-03
+J1268,Power BI Developer,Cognizant,Pune,1052711.0,1325106.0,4-6 years,"Python, SQL, Excel",Full-time,2026-11-17
+J1269,Data Analyst,Deloitte,Mumbai,1176273.0,1534776.0,6-8 years,"Python, SQL, Excel",Contract,2026-08-19
+J1270,Data Analyst,Cognizant,Pune,1136163.0,1355427.0,6-8 years,"Python, SQL",Full-time,2026-05-31
+J1271,Data Scientist,Cognizant,Bangalore,730682.0,1009618.0,0-2 years,"SQL, Tableau",Contract,2026-11-27
+J1272,Business Analyst,Accenture,Delhi,750373.0,940890.0,2-4 years,"Python, Machine Learning",Contract,2026-05-23
+J1273,Power BI Developer,Accenture,Mumbai,1288864.0,1532265.0,6-8 years,"Python, SQL",Part-time,2026-06-15
+J1274,Data Scientist,Cognizant,Hyderabad,903861.0,1187223.0,2-4 years,"Python, SQL, Excel",Contract,2026-12-02
+J1275,Python Developer,Deloitte,Chennai,1506154.0,1626763.0,8+ years,"SQL, Excel, Power BI",Contract,2026-07-25
+J1276,Python Developer,Infosys,Bangalore,713740.0,843724.0,0-2 years,"Python, SQL",Full-time,2026-06-13
+J1277,Power BI Developer,TCS,Delhi,1465298.0,1588727.0,8+ years,"Python, Machine Learning",Part-time,2026-01-25
+J1278,SQL Developer,Cognizant,Bangalore,1581822.0,1721930.0,8+ years,"Python, SQL",Full-time,2026-01-12
+J1279,Python Developer,Cognizant,Delhi,1315099.0,1450361.0,6-8 years,"Python, SQL",Full-time,2026-06-09
+J1280,SQL Developer,Wipro,Delhi,632146.0,775059.0,2-4 years,"Python, Machine Learning",Part-time,2026-09-23
+J1281,Data Analyst,Infosys,Delhi,952062.0,1208166.0,4-6 years,"Python, SQL",Full-time,2026-03-24
+J1282,Data Analyst,Wipro,Mumbai,448141.0,685619.0,0-2 years,"Python, Machine Learning",Contract,2026-03-21
+J1283,Python Developer,TCS,Pune,1313108.0,1613008.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-11-04
+J1284,Python Developer,Accenture,Delhi,792371.0,949393.0,2-4 years,"Python, SQL, Power BI, Excel",Full-time,2026-03-03
+J1285,SQL Developer,Wipro,Hyderabad,1161174.0,1337547.0,6-8 years,"Python, SQL, Excel",Contract,2026-05-13
+J1286,Power BI Developer,HCL,Bangalore,1093294.0,1347543.0,4-6 years,"SQL, Tableau",Contract,2026-11-10
+J1287,SQL Developer,TCS,Mumbai,1526532.0,1642584.0,8+ years,"Python, SQL",Contract,2026-12-04
+J1288,SQL Developer,Cognizant,Pune,540331.0,776201.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-11-04
+J1289,SQL Developer,Infosys,Delhi,1131223.0,1304153.0,6-8 years,"Python, SQL",Contract,2026-08-21
+J1290,SQL Developer,Accenture,Mumbai,723352.0,987208.0,2-4 years,"SQL, Tableau",Contract,2026-04-30
+J1291,Data Analyst,TCS,Chennai,592080.0,912249.0,2-4 years,"Python, Machine Learning",Full-time,2026-08-30
+J1292,Data Scientist,Accenture,Mumbai,1412961.0,1732822.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-07-19
+J1293,Data Analyst,HCL,Chennai,1146722.0,1276833.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-03-28
+J1294,SQL Developer,Cognizant,Chennai,878082.0,1067652.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-06-01
+J1295,Data Analyst,Cognizant,Pune,1368355.0,6000000.0,8+ years,"Python, SQL",Part-time,2026-07-30
+J1296,Business Analyst,Accenture,Hyderabad,1056295.0,1292806.0,4-6 years,"Python, SQL",Full-time,2026-05-18
+J1297,Power BI Developer,HCL,Pune,575144.0,897290.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-02-18
+J1298,Python Developer,Deloitte,Pune,631558.0,1000612.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-09-23
+J1299,SQL Developer,Accenture,Pune,969084.0,1177296.0,4-6 years,"Python, SQL",Contract,2026-06-09
+J1300,Python Developer,Infosys,Hyderabad,838279.0,1027768.0,2-4 years,"Python, SQL, Power BI, Excel",Full-time,2026-07-02
+J1301,Data Analyst,TCS,Hyderabad,1207425.0,1485301.0,6-8 years,"Python, SQL",Full-time,2026-06-21
+J1302,Business Analyst,Deloitte,Chennai,1448758.0,1586401.0,8+ years,"SQL, Excel, Power BI",Contract,2026-08-21
+J1303,Data Scientist,Cognizant,Mumbai,1693911.0,2019853.0,8+ years,"Python, SQL, Excel",Contract,2026-08-24
+J1304,Business Analyst,Deloitte,Delhi,933387.0,1213367.0,4-6 years,"Python, SQL, Power BI",Contract,2026-09-15
+J1305,SQL Developer,Cognizant,Pune,911598.0,1189156.0,4-6 years,,Part-time,2026-03-29
+J1306,Python Developer,Cognizant,Delhi,1076912.0,1433607.0,4-6 years,"SQL, Tableau",Full-time,2026-01-03
+J1307,Power BI Developer,Wipro,Mumbai,1346447.0,1607325.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-05-16
+J1308,Data Scientist,Infosys,Chennai,1282368.0,1627207.0,6-8 years,"SQL, Tableau",Part-time,2026-08-12
+J1309,Data Scientist,Infosys,Hyderabad,716735.0,1052556.0,0-2 years,"Python, SQL",Full-time,2026-08-19
+J1310,Business Analyst,Wipro,Bangalore,684899.0,893676.0,0-2 years,"SQL, Tableau",Full-time,2026-03-31
+J1311,Data Scientist,Deloitte,Pune,633944.0,1015961.0,0-2 years,"Python, SQL, Excel",Contract,2026-01-20
+J1312,Business Analyst,Wipro,Delhi,919596.0,1254223.0,4-6 years,"SQL, Tableau",Contract,2026-01-20
+J1313,Data Scientist,Deloitte,Hyderabad,908645.0,1272812.0,2-4 years,"SQL, Tableau",Contract,2026-12-25
+J1314,SQL Developer,Infosys,Delhi,1197804.0,1587714.0,6-8 years,"Python, Machine Learning",Full-time,2026-03-12
+J1315,Python Developer,Cognizant,Delhi,1055286.0,1424073.0,4-6 years,,Contract,2026-09-11
+J1316,Data Scientist,Deloitte,Bangalore,1168926.0,,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-07-30
+J1317,Power BI Developer,Cognizant,Pune,783934.0,1130561.0,2-4 years,"Python, SQL, Excel",Full-time,2026-07-11
+J1318,Business Analyst,Cognizant,Pune,553937.0,786660.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-04-23
+J1319,Business Analyst,Accenture,Hyderabad,1005564.0,1183548.0,4-6 years,"Python, SQL, Power BI",Contract,2026-07-17
+J1320,Python Developer,Accenture,Hyderabad,1194472.0,1297943.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-11-21
+J1321,Data Analyst,Accenture,Mumbai,624220.0,967526.0,2-4 years,"Python, SQL",Part-time,2026-04-23
+J1322,Power BI Developer,Deloitte,Delhi,1620106.0,1803926.0,8+ years,"Python, SQL, Excel",Full-time,2026-02-20
+J1323,SQL Developer,Wipro,Bangalore,1031906.0,1194718.0,4-6 years,"Python, SQL, Excel",Contract,2026-11-16
+J1324,SQL Developer,Accenture,Chennai,1426201.0,1676988.0,8+ years,"Python, SQL",Full-time,2026-05-06
+J1325,Data Scientist,Wipro,Chennai,563493.0,680562.0,0-2 years,"Python, Machine Learning",Contract,2026-11-12
+J1326,Python Developer,Accenture,Chennai,1280797.0,1513300.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-12-30
+J1327,Data Scientist,Deloitte,Delhi,1294742.0,1414417.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-09-27
+J1328,Data Scientist,Deloitte,Bangalore,741800.0,937844.0,0-2 years,"SQL, Tableau",Contract,2026-08-16
+J1329,Business Analyst,Accenture,Bangalore,815892.0,932965.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-01-07
+J1330,Power BI Developer,HCL,Bangalore,1035428.0,1186029.0,4-6 years,"Python, Machine Learning",Part-time,2026-06-03
+J1331,Python Developer,Deloitte,Chennai,1528228.0,1877658.0,8+ years,"Python, SQL",Full-time,2026-08-06
+J1332,SQL Developer,TCS,Hyderabad,959055.0,1140967.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-06-10
+J1333,Data Scientist,Cognizant,Pune,803365.0,1184955.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-10-16
+J1334,Data Analyst,Cognizant,Mumbai,638474.0,916306.0,2-4 years,"Python, Machine Learning",Contract,2026-03-27
+J1335,Data Analyst,TCS,Bangalore,663140.0,846597.0,2-4 years,"Python, SQL, Power BI",Contract,2026-01-22
+J1336,Data Analyst,Infosys,Bangalore,769286.0,962555.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-03-17
+J1337,Power BI Developer,Accenture,Hyderabad,660800.0,1060767.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-02-01
+J1338,SQL Developer,Accenture,Bangalore,,1508901.0,6-8 years,"Python, SQL, Excel",Contract,2026-08-20
+J1339,SQL Developer,HCL,Delhi,1166700.0,1556468.0,6-8 years,"Python, Machine Learning",Contract,2026-06-17
+J1340,Data Scientist,Accenture,Bangalore,781816.0,1035151.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-09-11
+J1341,Business Analyst,Accenture,Chennai,571253.0,850888.0,2-4 years,"Python, Machine Learning",Part-time,2026-10-06
+J1342,Data Analyst,Wipro,Bangalore,1044986.0,1278609.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-09-25
+J1343,Data Scientist,Accenture,Pune,,1046093.0,0-2 years,"Python, Machine Learning",Full-time,2026-02-16
+J1344,Power BI Developer,Infosys,Bangalore,1347067.0,5000000.0,6-8 years,"Python, Machine Learning",Contract,2026-09-20
+J1345,Business Analyst,Cognizant,Hyderabad,884135.0,1235005.0,4-6 years,"Python, SQL",Part-time,2026-01-08
+J1346,SQL Developer,Accenture,Hyderabad,1441205.0,1809255.0,8+ years,"Python, Machine Learning",Contract,2026-02-01
+J1347,Data Analyst,Accenture,Hyderabad,472870.0,691922.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-06-11
+J1348,Python Developer,Accenture,Delhi,668438.0,1050677.0,2-4 years,"Python, SQL, Power BI, Excel",Part-time,2026-10-10
+J1349,SQL Developer,TCS,Hyderabad,572051.0,827340.0,0-2 years,"Python, Machine Learning",Full-time,2026-05-13
+J1350,Business Analyst,Cognizant,Pune,1565665.0,1797382.0,8+ years,"Python, SQL, Power BI",Contract,2026-07-30
+J1351,Python Developer,Accenture,Chennai,876475.0,1020207.0,4-6 years,"Python, SQL",Part-time,2026-08-04
+J1352,Data Scientist,Deloitte,Hyderabad,1399615.0,1620602.0,6-8 years,"Python, Machine Learning",Contract,2026-09-05
+J1353,Data Scientist,Deloitte,Chennai,1595096.0,1898154.0,8+ years,"SQL, Excel, Power BI",Contract,2026-12-04
+J1354,Data Scientist,Wipro,Chennai,576637.0,971383.0,0-2 years,"SQL, Tableau",Part-time,2026-10-16
+J1355,Python Developer,Cognizant,Bangalore,817494.0,993723.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-07-20
+J1356,Python Developer,Accenture,Chennai,987960.0,1143037.0,4-6 years,"Python, Machine Learning",Contract,2026-05-23
+J1357,SQL Developer,Wipro,Chennai,1358179.0,1644518.0,8+ years,"SQL, Tableau",Contract,2026-02-08
+J1358,Data Analyst,Wipro,,1420290.0,1805180.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-04-01
+J1359,Data Scientist,Deloitte,Delhi,1356738.0,1468847.0,6-8 years,"SQL, Tableau",Contract,2026-03-25
+J1360,Data Analyst,TCS,Delhi,563909.0,944404.0,2-4 years,"Python, SQL, Excel",Part-time,2026-03-24
+J1361,Power BI Developer,Wipro,Hyderabad,809675.0,1176894.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-06-22
+J1362,Power BI Developer,HCL,Chennai,914840.0,1131059.0,4-6 years,"Python, Machine Learning",Part-time,2026-10-02
+J1363,Python Developer,Deloitte,Delhi,1609437.0,1847325.0,8+ years,"SQL, Tableau",Full-time,2026-11-04
+J1364,Data Analyst,Deloitte,Hyderabad,1528234.0,1720727.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-08-10
+J1365,Data Analyst,Accenture,Hyderabad,1161768.0,1324863.0,6-8 years,"Python, Machine Learning",Contract,2026-05-07
+J1366,SQL Developer,Deloitte,Chennai,1065087.0,1214899.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-11-21
+J1367,Python Developer,Cognizant,Hyderabad,1347580.0,1674788.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-11-20
+J1368,Business Analyst,TCS,Bangalore,532174.0,862997.0,0-2 years,"SQL, Tableau",Part-time,2026-11-28
+J1369,Power BI Developer,Accenture,Delhi,568668.0,882065.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-08-20
+J1370,SQL Developer,Wipro,Delhi,1238002.0,1366805.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-11-07
+J1371,Python Developer,Accenture,Pune,1181093.0,1560806.0,6-8 years,"SQL, Tableau",Part-time,2026-12-13
+J1372,Data Analyst,TCS,Delhi,416716.0,807793.0,0-2 years,"Python, SQL",Full-time,2026-08-06
+J1373,Business Analyst,Wipro,Pune,795868.0,1122595.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-05-22
+J1374,Business Analyst,Cognizant,Pune,574245.0,717301.0,0-2 years,"SQL, Tableau",Full-time,2026-10-29
+J1375,Data Analyst,Deloitte,Hyderabad,1226038.0,1592010.0,6-8 years,"Python, Machine Learning",Full-time,2026-07-11
+J1376,Power BI Developer,Infosys,Hyderabad,620448.0,725096.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-01-17
+J1377,SQL Developer,Wipro,Hyderabad,502207.0,833100.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-05-27
+J1378,Business Analyst,Cognizant,Delhi,1454363.0,1796610.0,8+ years,"Python, SQL, Power BI",Part-time,2026-04-19
+J1379,Python Developer,Cognizant,Chennai,1499291.0,1733684.0,8+ years,"Python, SQL",Part-time,2026-01-08
+J1380,Data Analyst,Wipro,Delhi,1313760.0,1567022.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-12-06
+J1381,Data Scientist,Infosys,Bangalore,1474995.0,1723044.0,6-8 years,"Python, SQL, Excel",Full-time,2026-05-27
+J1382,Python Developer,Accenture,Chennai,474306.0,724464.0,0-2 years,"Python, Machine Learning",Contract,2026-02-10
+J1383,Data Scientist,HCL,Mumbai,704610.0,945740.0,0-2 years,"Python, SQL",Contract,2026-09-23
+J1384,Power BI Developer,Infosys,Hyderabad,496619.0,853072.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-06-04
+J1385,SQL Developer,Infosys,Mumbai,998928.0,1348696.0,4-6 years,"Python, SQL, Excel",Contract,2026-09-25
+J1386,Business Analyst,Wipro,Chennai,1438244.0,1706753.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-02-18
+J1387,Data Analyst,HCL,Chennai,1017514.0,1349010.0,6-8 years,"SQL, Tableau",Contract,2026-05-02
+J1388,Power BI Developer,Accenture,Pune,719003.0,1002470.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-12-01
+J1389,Data Analyst,HCL,Hyderabad,696677.0,880232.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-06-16
+J1390,Data Scientist,Accenture,Mumbai,1513376.0,1788627.0,6-8 years,"SQL, Tableau",Full-time,2026-10-02
+J1391,SQL Developer,Infosys,Pune,614014.0,957180.0,2-4 years,"Python, Machine Learning",Part-time,2026-05-06
+J1392,Business Analyst,TCS,Chennai,1495040.0,1743550.0,8+ years,"Python, SQL",Contract,2026-04-23
+J1393,SQL Developer,Infosys,Mumbai,940188.0,1261119.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-06-03
+J1394,Business Analyst,Deloitte,Delhi,987362.0,1244851.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-09-19
+J1395,Business Analyst,Cognizant,,804092.0,1057216.0,2-4 years,"SQL, Tableau",Contract,2026-06-19
+J1396,Python Developer,Cognizant,Hyderabad,1298800.0,1686316.0,6-8 years,"Python, SQL",Full-time,2026-03-18
+J1397,Business Analyst,HCL,Delhi,1246575.0,1583102.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-10-05
+J1398,Python Developer,Cognizant,Mumbai,696449.0,805005.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-12-08
+J1399,SQL Developer,Wipro,Hyderabad,936882.0,1238347.0,4-6 years,"Python, SQL",Contract,2026-12-07
+J1400,Power BI Developer,HCL,Pune,1440358.0,1659977.0,8+ years,"Python, Machine Learning",Part-time,2026-04-02
+J1401,SQL Developer,Wipro,Mumbai,659420.0,1041783.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-12-04
+J1402,Power BI Developer,TCS,Bangalore,988951.0,1221330.0,4-6 years,"SQL, Tableau",Part-time,2026-01-05
+J1403,Data Analyst,Cognizant,Pune,771140.0,1159705.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-06-22
+J1404,Python Developer,Deloitte,Mumbai,1161088.0,1307187.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-02-15
+J1405,Data Scientist,Accenture,Delhi,620011.0,758646.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-11-04
+J1406,Power BI Developer,HCL,Bangalore,1248064.0,1612662.0,6-8 years,"Python, SQL, Excel",Part-time,2026-07-22
+J1407,Data Analyst,Wipro,Bangalore,569338.0,687692.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-06-24
+J1408,Python Developer,HCL,Mumbai,1152035.0,1522195.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-12-03
+J1409,Data Analyst,TCS,Hyderabad,905518.0,1029563.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-07-08
+J1410,Data Scientist,Deloitte,Mumbai,1139337.0,1392722.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-11-16
+J1411,Power BI Developer,Cognizant,Pune,689847.0,848500.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-02-26
+J1412,Power BI Developer,HCL,Hyderabad,986976.0,1360710.0,4-6 years,"Python, SQL",Contract,2026-01-30
+J1413,Business Analyst,TCS,Pune,606156.0,748883.0,0-2 years,"SQL, Tableau",Full-time,2026-05-16
+J1414,SQL Developer,Accenture,Chennai,375969.0,622079.0,0-2 years,"Python, Machine Learning",Part-time,2026-04-14
+J1415,Data Analyst,Infosys,Delhi,1011381.0,1393335.0,6-8 years,"Python, SQL, Excel",Part-time,2026-03-13
+J1416,Business Analyst,Deloitte,Pune,1537628.0,1796920.0,8+ years,"SQL, Tableau",Contract,2026-03-24
+J1417,Business Analyst,Deloitte,Bangalore,639833.0,927604.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-05-24
+J1418,Power BI Developer,Accenture,Bangalore,883671.0,994021.0,2-4 years,"Python, SQL",Full-time,2026-10-17
+J1419,Business Analyst,HCL,Delhi,983782.0,1374380.0,4-6 years,"Python, SQL, Excel",Full-time,2026-11-17
+J1420,Data Analyst,TCS,Delhi,1471202.0,1849912.0,8+ years,"SQL, Tableau",Full-time,2026-01-23
+J1421,Power BI Developer,Infosys,Bangalore,1350909.0,1613902.0,6-8 years,"Python, SQL, Excel",Contract,2026-02-22
+J1422,Power BI Developer,Deloitte,Pune,1496071.0,1798264.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-01-12
+J1423,Power BI Developer,Infosys,Bangalore,727016.0,881254.0,2-4 years,"Python, SQL, Power BI, Excel",Part-time,2026-08-29
+J1424,Data Scientist,Cognizant,Bangalore,922736.0,1312870.0,2-4 years,,Contract,2026-03-29
+J1425,Data Scientist,TCS,Delhi,1715103.0,2049207.0,8+ years,"Python, Machine Learning",Full-time,2026-03-06
+J1426,Business Analyst,Wipro,Chennai,940930.0,1132148.0,4-6 years,"Python, SQL",Contract,2026-06-26
+J1427,Power BI Developer,Accenture,Hyderabad,1539129.0,1870453.0,8+ years,"Python, SQL, Power BI",Contract,2026-11-12
+J1428,Business Analyst,TCS,Bangalore,1515372.0,1907312.0,8+ years,"SQL, Tableau",Part-time,2026-01-24
+J1429,Python Developer,Wipro,Chennai,1275357.0,6000000.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-01-21
+J1430,Python Developer,Wipro,Hyderabad,1275968.0,1655620.0,6-8 years,"SQL, Tableau",Contract,2026-10-31
+J1431,Python Developer,TCS,Hyderabad,685355.0,787612.0,2-4 years,"Python, SQL, Excel",Part-time,2026-08-17
+J1432,SQL Developer,Accenture,Bangalore,595690.0,814271.0,0-2 years,"Python, SQL, Power BI",Contract,2026-04-10
+J1433,SQL Developer,HCL,Mumbai,1538135.0,1729022.0,8+ years,"Python, SQL",Full-time,2026-09-20
+J1434,Python Developer,Infosys,Hyderabad,1296923.0,1459184.0,6-8 years,"Python, SQL, Excel",Full-time,2026-03-06
+J1435,Python Developer,Cognizant,Pune,1093016.0,1481832.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-04-28
+J1436,Power BI Developer,Infosys,Mumbai,1351997.0,1742313.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-06-14
+J1437,Power BI Developer,Infosys,Delhi,511881.0,825547.0,0-2 years,"Python, Machine Learning",Contract,2026-04-21
+J1438,Power BI Developer,TCS,Pune,1236664.0,1469137.0,6-8 years,"SQL, Tableau",Part-time,2026-07-07
+J1439,Data Scientist,Deloitte,Chennai,1276240.0,1615959.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-04-02
+J1440,Data Scientist,Accenture,Hyderabad,1631374.0,1845771.0,8+ years,"Python, SQL",Part-time,2026-08-21
+J1441,Data Scientist,Cognizant,Delhi,1715350.0,1884911.0,8+ years,"Python, SQL, Power BI",Full-time,2026-01-07
+J1442,Python Developer,TCS,Delhi,1280963.0,1562159.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-05-15
+J1443,Python Developer,HCL,Hyderabad,607606.0,735757.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-02-14
+J1444,Power BI Developer,Wipro,Pune,992204.0,1184973.0,4-6 years,"SQL, Tableau",Full-time,2026-08-14
+J1445,Python Developer,Cognizant,Pune,1241607.0,1440541.0,6-8 years,"Python, SQL",Contract,2026-05-13
+J1446,Python Developer,Infosys,Hyderabad,1318458.0,1595699.0,6-8 years,"Python, SQL, Excel",Full-time,2026-07-18
+J1447,Data Scientist,TCS,Bangalore,739388.0,1026211.0,0-2 years,"Python, SQL",Part-time,2026-12-26
+J1448,Python Developer,HCL,Pune,1053840.0,1186270.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-02-21
+J1449,Power BI Developer,Deloitte,Pune,520360.0,870901.0,0-2 years,"Python, SQL, Power BI, Excel",Part-time,2026-08-30
+J1450,Data Scientist,TCS,Bangalore,,1932625.0,8+ years,"Python, Machine Learning",Full-time,2026-02-23
+J1451,Data Analyst,Infosys,Delhi,844703.0,1180499.0,4-6 years,"Python, SQL",Part-time,2026-02-15
+J1452,SQL Developer,Deloitte,Delhi,653309.0,796836.0,2-4 years,"Python, SQL, Excel",Contract,2026-08-23
+J1453,Python Developer,TCS,Chennai,954110.0,1199161.0,4-6 years,"SQL, Tableau",Contract,2026-03-11
+J1454,Data Analyst,Accenture,Hyderabad,1156221.0,1261672.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-05-19
+J1455,SQL Developer,TCS,Bangalore,930873.0,1159262.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-09-17
+J1456,Python Developer,Wipro,,1054064.0,1379962.0,4-6 years,"SQL, Tableau",Contract,2026-10-26
+J1457,SQL Developer,Infosys,Bangalore,1536191.0,1908546.0,8+ years,"Python, SQL",Contract,2026-04-04
+J1458,Data Analyst,Wipro,Chennai,837893.0,1096656.0,4-6 years,"Python, Machine Learning",Contract,2026-05-17
+J1459,SQL Developer,Infosys,Pune,1439710.0,1695314.0,8+ years,"Python, Machine Learning",Contract,2026-08-04
+J1460,Data Scientist,Accenture,Bangalore,1281050.0,1614870.0,4-6 years,"Python, SQL, Excel",Full-time,2026-12-30
+J1461,SQL Developer,Cognizant,Bangalore,1240695.0,1396536.0,6-8 years,"Python, SQL, Power BI",Contract,2026-05-09
+J1462,Data Analyst,Cognizant,Chennai,803696.0,1030006.0,4-6 years,"Python, Machine Learning",Full-time,2026-04-01
+J1463,Data Scientist,Deloitte,Chennai,875731.0,1224653.0,2-4 years,"SQL, Tableau",Full-time,2026-03-23
+J1464,Python Developer,TCS,Bangalore,630099.0,959305.0,0-2 years,"Python, SQL",Contract,2026-09-23
+J1465,Business Analyst,Wipro,Chennai,491328.0,809840.0,0-2 years,"SQL, Tableau",Contract,2026-10-05
+J1466,Data Scientist,Cognizant,Chennai,1656575.0,1802577.0,8+ years,"Python, Machine Learning",Full-time,2026-05-29
+J1467,Business Analyst,Accenture,Bangalore,1149003.0,1460145.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-10-30
+J1468,Data Scientist,Cognizant,Mumbai,1378275.0,1761119.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-02-10
+J1469,Business Analyst,HCL,Delhi,1230954.0,1493581.0,6-8 years,"Python, SQL, Excel",Full-time,2026-09-28
+J1470,Business Analyst,Cognizant,Chennai,845095.0,1090437.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-07-08
+J1471,Python Developer,Infosys,Mumbai,736673.0,,2-4 years,"Python, Machine Learning",Part-time,2026-06-30
+J1472,Python Developer,HCL,Mumbai,1607044.0,1895265.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-06-18
+J1473,Data Analyst,Cognizant,Chennai,1034148.0,1373389.0,6-8 years,"Python, SQL, Excel",Contract,2026-06-17
+J1474,Power BI Developer,Cognizant,Mumbai,1280453.0,1589312.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-11-28
+J1475,Power BI Developer,Wipro,Pune,633526.0,784527.0,0-2 years,"SQL, Tableau",Full-time,2026-11-02
+J1476,Power BI Developer,Deloitte,Mumbai,506589.0,824172.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-02-16
+J1477,Power BI Developer,Accenture,Delhi,1548375.0,1663463.0,8+ years,,Full-time,2026-09-29
+J1478,Business Analyst,HCL,Bangalore,847022.0,1025099.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-01-09
+J1479,Data Analyst,Wipro,Bangalore,432920.0,784434.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-12-23
+J1480,Power BI Developer,TCS,Chennai,480728.0,863455.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-09-28
+J1481,Business Analyst,Deloitte,Chennai,669873.0,1045067.0,2-4 years,"Python, SQL, Power BI, Excel",Full-time,2026-06-18
+J1482,SQL Developer,TCS,Mumbai,1221538.0,1347213.0,6-8 years,"Python, Machine Learning",Full-time,2026-06-24
+J1483,SQL Developer,HCL,Chennai,394814.0,624701.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-05-08
+J1484,Python Developer,Infosys,Chennai,868919.0,1235236.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-11-10
+J1485,Data Analyst,Deloitte,Bangalore,1484892.0,1655425.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-06-17
+J1486,Business Analyst,Cognizant,Chennai,1499303.0,1841491.0,8+ years,"SQL, Excel, Power BI",Contract,2026-08-28
+J1487,Power BI Developer,Wipro,Hyderabad,1151481.0,1451820.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-04-05
+J1488,Python Developer,Accenture,Bangalore,1143526.0,1530005.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-03-24
+J1489,Business Analyst,Infosys,Pune,1307051.0,1557704.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-02-22
+J1490,Business Analyst,Cognizant,Hyderabad,1199552.0,1441432.0,6-8 years,"Python, SQL, Power BI",Contract,2026-11-30
+J1491,SQL Developer,Deloitte,Hyderabad,511938.0,829751.0,0-2 years,"Python, SQL, Excel",Contract,2026-07-16
+J1492,Business Analyst,Infosys,Delhi,1256163.0,1431440.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-08-03
+J1493,Business Analyst,Deloitte,Mumbai,1300702.0,1452615.0,6-8 years,"SQL, Tableau",Contract,2026-12-27
+J1494,Data Analyst,Infosys,Delhi,1420561.0,1757674.0,8+ years,"Python, SQL",Full-time,2026-11-21
+J1495,Python Developer,Deloitte,Chennai,1464256.0,1783056.0,8+ years,"Python, SQL",Contract,2026-07-23
+J1496,Business Analyst,Wipro,Bangalore,741167.0,1037542.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-03-15
+J1497,Power BI Developer,Deloitte,Bangalore,1064426.0,1259302.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-08-18
+J1498,Python Developer,Wipro,Chennai,1194803.0,1527733.0,6-8 years,"Python, Machine Learning",Part-time,2026-11-18
+J1499,Power BI Developer,Cognizant,Bangalore,971306.0,1075155.0,4-6 years,"Python, SQL, Excel",Part-time,2026-03-14
+J1500,Data Analyst,Deloitte,Chennai,751707.0,1132540.0,4-6 years,"Python, Machine Learning",Part-time,2026-03-06
+J1501,Business Analyst,Infosys,Chennai,598442.0,952953.0,2-4 years,"SQL, Tableau",Part-time,2026-09-05
+J1502,Power BI Developer,Accenture,Bangalore,680272.0,953395.0,0-2 years,"SQL, Tableau",Full-time,2026-01-07
+J1503,Data Analyst,TCS,Pune,897219.0,1074091.0,4-6 years,"Python, SQL, Power BI",Contract,2026-08-25
+J1504,Power BI Developer,Infosys,Delhi,564021.0,742534.0,0-2 years,"Python, SQL",Contract,2026-09-01
+J1505,Business Analyst,Cognizant,Chennai,1144851.0,1378349.0,6-8 years,,Part-time,2026-03-14
+J1506,Business Analyst,Infosys,,1221176.0,1587337.0,6-8 years,"Python, SQL, Power BI",Part-time,2026-07-31
+J1507,SQL Developer,HCL,Chennai,1362943.0,1558610.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-02-16
+J1508,Data Analyst,TCS,Delhi,1370442.0,1760172.0,8+ years,"SQL, Excel, Power BI",Contract,2026-11-14
+J1509,Data Scientist,TCS,Hyderabad,,1129006.0,2-4 years,"Python, SQL, Excel",Part-time,2026-05-07
+J1510,Business Analyst,Accenture,Hyderabad,1430869.0,1794027.0,8+ years,"Python, SQL, Excel",Part-time,2026-04-01
+J1511,Power BI Developer,Wipro,Delhi,773516.0,1028758.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-12-11
+J1512,Data Analyst,Accenture,Pune,506664.0,750591.0,0-2 years,"Python, SQL, Excel",Full-time,2026-07-06
+J1513,SQL Developer,Infosys,Mumbai,690843.0,898080.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-06-17
+J1514,Python Developer,Infosys,Pune,967195.0,1222684.0,4-6 years,"SQL, Tableau",Part-time,2026-03-04
+J1515,Power BI Developer,Wipro,Bangalore,598927.0,871093.0,0-2 years,"SQL, Tableau",Contract,2026-03-02
+J1516,Business Analyst,Deloitte,Pune,1245398.0,1643384.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-08-30
+J1517,Data Analyst,TCS,Delhi,1445529.0,1659028.0,8+ years,"SQL, Tableau",Full-time,2026-01-21
+J1518,Data Scientist,HCL,Hyderabad,1662722.0,2013541.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-03-10
+J1519,Data Analyst,Accenture,Pune,1073606.0,1299876.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-02-21
+J1520,Data Analyst,Cognizant,Delhi,1426736.0,1607993.0,8+ years,"Python, Machine Learning",Contract,2026-11-10
+J1521,Data Analyst,TCS,Mumbai,1479500.0,1635858.0,8+ years,"Python, SQL, Power BI",Contract,2026-05-30
+J1522,Data Analyst,Deloitte,Mumbai,760063.0,1138529.0,2-4 years,"Python, SQL, Power BI, Excel",Full-time,2026-11-09
+J1523,Power BI Developer,TCS,Mumbai,1613199.0,1876386.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-04-22
+J1524,SQL Developer,TCS,Mumbai,684955.0,960076.0,2-4 years,"SQL, Tableau",Contract,2026-04-04
+J1525,Power BI Developer,Deloitte,Chennai,466671.0,718856.0,0-2 years,"Python, SQL, Excel",Part-time,2026-05-18
+J1526,Python Developer,Wipro,Pune,812365.0,1174163.0,2-4 years,"Python, SQL, Power BI",Contract,2026-09-04
+J1527,Power BI Developer,HCL,Hyderabad,1258328.0,1373862.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-10-16
+J1528,Power BI Developer,TCS,Hyderabad,908640.0,1239964.0,4-6 years,"Python, SQL",Part-time,2026-12-20
+J1529,Business Analyst,Cognizant,Delhi,522207.0,819053.0,0-2 years,"Python, SQL",Full-time,2026-07-24
+J1530,Data Analyst,Cognizant,Mumbai,1491696.0,1711772.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-11-21
+J1531,Data Scientist,TCS,Hyderabad,870932.0,971124.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-08-29
+J1532,Power BI Developer,TCS,Hyderabad,582130.0,722272.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-01-29
+J1533,SQL Developer,Wipro,Bangalore,1242056.0,1393887.0,6-8 years,"Python, SQL, Power BI",Contract,2026-11-08
+J1534,Data Analyst,Cognizant,Chennai,322309.0,655501.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-07-18
+J1535,Power BI Developer,Cognizant,Hyderabad,1094636.0,1199630.0,4-6 years,"Python, SQL",Full-time,2026-05-19
+J1536,SQL Developer,Deloitte,Delhi,411759.0,645412.0,0-2 years,"Python, SQL",Part-time,2026-01-06
+J1537,Python Developer,HCL,Chennai,1276848.0,1414396.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-03-23
+J1538,Data Scientist,Cognizant,Mumbai,1411881.0,1591579.0,6-8 years,"SQL, Tableau",Part-time,2026-01-03
+J1539,Power BI Developer,Deloitte,Hyderabad,1243305.0,1452467.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-04-06
+J1540,Business Analyst,Deloitte,Hyderabad,778008.0,1154835.0,2-4 years,"Python, SQL, Excel",Full-time,2026-06-08
+J1541,Python Developer,Infosys,Mumbai,636633.0,988850.0,0-2 years,"Python, Machine Learning",Full-time,2026-12-23
+J1542,SQL Developer,Deloitte,Bangalore,1213972.0,1596112.0,6-8 years,"Python, SQL, Power BI",Part-time,2026-02-28
+J1543,Python Developer,TCS,Pune,1663583.0,1971157.0,8+ years,"Python, SQL",Full-time,2026-10-04
+J1544,Data Scientist,Accenture,Bangalore,1756233.0,1941044.0,8+ years,"SQL, Tableau",Contract,2026-06-19
+J1545,SQL Developer,Cognizant,Hyderabad,963722.0,1336491.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-04-04
+J1546,Power BI Developer,Accenture,Bangalore,1241839.0,1631199.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-08-06
+J1547,Data Scientist,Infosys,Pune,1027485.0,1370541.0,4-6 years,"Python, SQL",Part-time,2026-03-03
+J1548,Power BI Developer,TCS,Hyderabad,1078976.0,1341757.0,4-6 years,"Python, SQL, Excel",Full-time,2026-06-22
+J1549,Python Developer,Cognizant,Bangalore,1623493.0,1852078.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-07-26
+J1550,Python Developer,HCL,Delhi,1282867.0,1645214.0,6-8 years,"Python, SQL",Full-time,2026-06-10
+J1551,Python Developer,TCS,Mumbai,1591246.0,1841577.0,8+ years,"SQL, Tableau",Part-time,2026-04-30
+J1552,Power BI Developer,Infosys,Delhi,474535.0,672581.0,0-2 years,"Python, SQL, Excel",Part-time,2026-04-14
+J1553,SQL Developer,Deloitte,Bangalore,800357.0,1118337.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-09-13
+J1554,Power BI Developer,Wipro,Pune,1304286.0,1509213.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-03-02
+J1555,Data Scientist,Wipro,Mumbai,1098302.0,1450458.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-09-26
+J1556,Data Analyst,Wipro,Pune,940130.0,1065655.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-10-31
+J1557,SQL Developer,Wipro,Delhi,656462.0,924141.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-08-23
+J1558,Data Scientist,Wipro,Hyderabad,,1952705.0,8+ years,"SQL, Tableau",Full-time,2026-03-09
+J1559,SQL Developer,Cognizant,Hyderabad,913340.0,1127051.0,4-6 years,"Python, SQL",Contract,2026-07-30
+J1560,Business Analyst,Deloitte,Bangalore,1270532.0,1480662.0,6-8 years,"SQL, Tableau",Part-time,2026-05-29
+J1561,Python Developer,Infosys,Pune,599768.0,713794.0,0-2 years,"Python, SQL",Contract,2026-10-15
+J1562,Business Analyst,Cognizant,Bangalore,1063185.0,1341831.0,4-6 years,"Python, SQL, Power BI, Excel",Contract,2026-03-16
+J1563,SQL Developer,Accenture,Mumbai,439288.0,623713.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-12-05
+J1564,Data Analyst,HCL,Pune,379941.0,541110.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-07-28
+J1565,SQL Developer,Deloitte,Delhi,693055.0,1067391.0,2-4 years,"Python, Machine Learning",Contract,2026-02-28
+J1566,Business Analyst,HCL,Pune,1238226.0,1526731.0,6-8 years,"Python, SQL, Excel",Contract,2026-04-04
+J1567,SQL Developer,Cognizant,Bangalore,1553027.0,1939160.0,8+ years,"Python, SQL, Power BI",Contract,2026-01-26
+J1568,Business Analyst,Accenture,Hyderabad,1185021.0,1383021.0,6-8 years,"SQL, Tableau",Contract,2026-05-08
+J1569,Python Developer,Accenture,Delhi,1101066.0,1306752.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-03-29
+J1570,Data Analyst,Wipro,Hyderabad,1162384.0,1314830.0,6-8 years,"SQL, Tableau",Contract,2026-04-29
+J1571,Data Analyst,HCL,Mumbai,1075750.0,1211653.0,6-8 years,"Python, Machine Learning",Part-time,2026-10-25
+J1572,Power BI Developer,Cognizant,Hyderabad,1033014.0,1250319.0,4-6 years,"Python, SQL",Contract,2026-10-17
+J1573,Business Analyst,Accenture,Bangalore,719539.0,1052885.0,2-4 years,"Python, Machine Learning",Part-time,2026-10-20
+J1574,Power BI Developer,TCS,Pune,1089165.0,,4-6 years,"Python, SQL, Excel",Full-time,2026-03-01
+J1575,Data Scientist,HCL,Pune,752956.0,1131451.0,0-2 years,"Python, Machine Learning",Full-time,2026-02-05
+J1576,SQL Developer,Infosys,Delhi,1122453.0,1372339.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-12-10
+J1577,Power BI Developer,Infosys,Hyderabad,1210692.0,1356233.0,6-8 years,"Python, SQL, Excel",Contract,2026-09-23
+J1578,Power BI Developer,Wipro,Pune,1159520.0,1547230.0,6-8 years,"Python, SQL, Excel",Part-time,2026-11-09
+J1579,Data Scientist,Cognizant,Bangalore,820744.0,1216343.0,0-2 years,"Python, SQL, Excel",Full-time,2026-01-18
+J1580,Business Analyst,Accenture,Chennai,608870.0,795564.0,2-4 years,"Python, SQL, Power BI, Excel",Part-time,2026-01-13
+J1581,Data Analyst,TCS,Pune,674353.0,955421.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-07-27
+J1582,Data Analyst,HCL,Pune,1026587.0,1420211.0,6-8 years,"Python, SQL, Excel",Part-time,2026-08-15
+J1583,Data Scientist,HCL,Pune,1105303.0,1240003.0,4-6 years,"Python, SQL, Power BI",Contract,2026-12-31
+J1584,Data Analyst,TCS,Mumbai,1000059.0,1101940.0,4-6 years,"SQL, Tableau",Full-time,2026-09-27
+J1585,Power BI Developer,Accenture,Pune,520357.0,885763.0,0-2 years,"SQL, Tableau",Part-time,2026-04-30
+J1586,Python Developer,Cognizant,Delhi,939932.0,1308977.0,4-6 years,"Python, Machine Learning",Part-time,2026-08-14
+J1587,Power BI Developer,Cognizant,Delhi,571679.0,683553.0,0-2 years,"Python, SQL, Excel",Contract,2026-09-13
+J1588,Business Analyst,Accenture,Chennai,912100.0,1162972.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-05-07
+J1589,Data Analyst,HCL,Delhi,1330862.0,1704675.0,8+ years,"Python, SQL",Part-time,2026-01-13
+J1590,SQL Developer,HCL,Bangalore,750336.0,919840.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-09-30
+J1591,Data Scientist,Infosys,Hyderabad,1704055.0,1895966.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-11-11
+J1592,Data Scientist,HCL,Hyderabad,1771632.0,2109355.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-07-08
+J1593,Data Scientist,Deloitte,Bangalore,744220.0,1014811.0,0-2 years,"Python, SQL, Excel",Part-time,2026-08-09
+J1594,Power BI Developer,Deloitte,Bangalore,1684093.0,1965964.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-02-24
+J1595,Data Analyst,Wipro,Pune,448388.0,670145.0,0-2 years,"Python, Machine Learning",Contract,2026-11-09
+J1596,Python Developer,TCS,Delhi,506922.0,882475.0,0-2 years,"Python, Machine Learning",Part-time,2026-07-27
+J1597,Data Analyst,HCL,Pune,448840.0,734112.0,0-2 years,"SQL, Tableau",Contract,2026-03-13
+J1598,Business Analyst,Deloitte,Pune,486061.0,745943.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-04-13
+J1599,Business Analyst,HCL,Chennai,525476.0,915674.0,0-2 years,"Python, SQL",Full-time,2026-02-25
+J1600,Power BI Developer,Deloitte,Bangalore,1590453.0,1794588.0,8+ years,"SQL, Tableau",Part-time,2026-08-21
+J1601,Data Analyst,Wipro,Hyderabad,903666.0,1094864.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-04-14
+J1602,Business Analyst,HCL,Pune,931410.0,1242537.0,4-6 years,"Python, SQL, Power BI",Contract,2026-01-28
+J1603,Data Scientist,Deloitte,Mumbai,1197475.0,1524047.0,4-6 years,"Python, Machine Learning",Contract,2026-11-04
+J1604,Data Scientist,TCS,Chennai,1321762.0,1649341.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-12-21
+J1605,Power BI Developer,Wipro,Pune,522551.0,878997.0,0-2 years,"Python, SQL",Contract,2026-07-27
+J1606,Data Scientist,Accenture,Delhi,1403919.0,1717094.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-03-17
+J1607,Power BI Developer,Cognizant,Chennai,713079.0,868884.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-04-28
+J1608,Data Scientist,TCS,Bangalore,1358002.0,1565526.0,6-8 years,"Python, SQL",Part-time,2026-07-14
+J1609,Data Scientist,Wipro,Chennai,1094724.0,1489167.0,4-6 years,"Python, Machine Learning",Full-time,2026-10-09
+J1610,Data Scientist,HCL,Bangalore,1370566.0,1595157.0,6-8 years,"Python, Machine Learning",Part-time,2026-07-02
+J1611,Data Analyst,Deloitte,Chennai,473929.0,733821.0,2-4 years,"Python, SQL, Excel",Part-time,2026-12-06
+J1612,Data Analyst,Accenture,Delhi,1503664.0,1707852.0,8+ years,"Python, SQL, Excel",Full-time,2026-05-23
+J1613,Data Scientist,Infosys,Delhi,1333576.0,1459040.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-03-11
+J1614,Data Analyst,Wipro,Pune,1148484.0,1498303.0,6-8 years,,Contract,2026-08-15
+J1615,Power BI Developer,HCL,Hyderabad,757347.0,1153267.0,2-4 years,"Python, SQL",Full-time,2026-07-19
+J1616,Business Analyst,Cognizant,Mumbai,868614.0,1212381.0,2-4 years,"SQL, Tableau",Full-time,2026-08-25
+J1617,Power BI Developer,Cognizant,Mumbai,,5000000.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-01-30
+J1618,Business Analyst,Accenture,Pune,1180956.0,1402680.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-08-08
+J1619,Data Scientist,Deloitte,Chennai,794881.0,1137815.0,2-4 years,"SQL, Tableau",Part-time,2026-01-31
+J1620,Python Developer,TCS,Pune,606567.0,929387.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-04-21
+J1621,Data Analyst,TCS,Chennai,520884.0,888482.0,2-4 years,"Python, SQL, Excel",Contract,2026-07-28
+J1622,Power BI Developer,Deloitte,Hyderabad,1509993.0,1738645.0,8+ years,"Python, SQL, Excel",Part-time,2026-05-25
+J1623,Power BI Developer,TCS,Delhi,1502045.0,1839114.0,8+ years,"Python, SQL, Excel",Part-time,2026-08-27
+J1624,SQL Developer,HCL,Delhi,1535504.0,1637966.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-09-02
+J1625,Business Analyst,Accenture,Delhi,1525942.0,1910639.0,8+ years,"Python, SQL, Excel",Contract,2026-10-30
+J1626,SQL Developer,Infosys,Pune,945139.0,1281443.0,4-6 years,"Python, SQL",Contract,2026-09-06
+J1627,Power BI Developer,Deloitte,Mumbai,1202306.0,1356128.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-08-27
+J1628,Python Developer,Wipro,Chennai,890863.0,1101886.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-02-13
+J1629,SQL Developer,Cognizant,Chennai,887663.0,1109682.0,4-6 years,"Python, SQL",Full-time,2026-05-21
+J1630,Power BI Developer,Infosys,Delhi,1477101.0,1646544.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-10-23
+J1631,Business Analyst,Accenture,Delhi,1251419.0,1599463.0,6-8 years,"SQL, Tableau",Contract,2026-07-13
+J1632,Business Analyst,Deloitte,Hyderabad,580113.0,867063.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-12-30
+J1633,Business Analyst,HCL,Bangalore,1519229.0,1647106.0,8+ years,"Python, SQL, Power BI",Part-time,2026-05-26
+J1634,Data Scientist,Cognizant,Mumbai,1707034.0,1978423.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-06-22
+J1635,SQL Developer,Deloitte,Delhi,649531.0,801758.0,2-4 years,"SQL, Tableau",Contract,2026-04-03
+J1636,Power BI Developer,Infosys,Bangalore,829417.0,1119068.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-01-06
+J1637,Business Analyst,HCL,Hyderabad,725632.0,996735.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-12-03
+J1638,Data Analyst,Wipro,Mumbai,940435.0,1255624.0,4-6 years,"Python, SQL, Excel",Full-time,2026-09-04
+J1639,Business Analyst,Cognizant,Hyderabad,786635.0,1127544.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-08-13
+J1640,Data Scientist,TCS,Hyderabad,658537.0,906117.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-06-24
+J1641,SQL Developer,HCL,Pune,451980.0,,0-2 years,"Python, Machine Learning",Contract,2026-01-25
+J1642,Data Scientist,Deloitte,Bangalore,706782.0,906134.0,0-2 years,"Python, SQL, Excel",Contract,2026-11-30
+J1643,Business Analyst,Accenture,Bangalore,750772.0,890921.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-06-22
+J1644,Data Analyst,Deloitte,Bangalore,1175553.0,1461651.0,6-8 years,"Python, SQL, Power BI",Contract,2026-01-18
+J1645,Business Analyst,Cognizant,Hyderabad,809211.0,1065289.0,2-4 years,"Python, SQL, Excel",Full-time,2026-08-27
+J1646,Data Scientist,Accenture,Pune,1575877.0,1715430.0,8+ years,"Python, Machine Learning",Part-time,2026-11-11
+J1647,Business Analyst,Wipro,Delhi,1238202.0,1551658.0,6-8 years,"Python, Machine Learning",Full-time,2026-10-19
+J1648,SQL Developer,Cognizant,Bangalore,1291996.0,1515801.0,6-8 years,"Python, Machine Learning",Contract,2026-05-31
+J1649,Power BI Developer,Infosys,Mumbai,1378860.0,1696142.0,6-8 years,"Python, Machine Learning",Full-time,2026-08-16
+J1650,Power BI Developer,Accenture,Hyderabad,,1726003.0,8+ years,"Python, SQL",Full-time,2026-01-27
+J1651,Python Developer,Cognizant,Pune,561299.0,665268.0,0-2 years,"Python, SQL, Excel",Part-time,2026-08-12
+J1652,Data Scientist,Cognizant,Delhi,1394578.0,1581064.0,6-8 years,"Python, SQL, Excel",Full-time,2026-02-03
+J1653,SQL Developer,Wipro,Delhi,1410691.0,1768662.0,8+ years,"Python, Machine Learning",Contract,2026-11-25
+J1654,Business Analyst,Wipro,Delhi,1173928.0,1488231.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-02-19
+J1655,Data Scientist,Cognizant,Pune,1096553.0,1313100.0,4-6 years,"SQL, Tableau",Contract,2026-10-27
+J1656,Data Scientist,Cognizant,Bangalore,725910.0,1033198.0,0-2 years,"Python, SQL",Part-time,2026-12-07
+J1657,SQL Developer,HCL,Hyderabad,1381161.0,1579225.0,8+ years,"Python, SQL",Part-time,2026-12-18
+J1658,Power BI Developer,HCL,Mumbai,973654.0,1327946.0,4-6 years,"Python, SQL, Power BI",Part-time,2026-01-04
+J1659,Data Scientist,HCL,Bangalore,1539312.0,6000000.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-12-14
+J1660,Data Analyst,HCL,Pune,1341889.0,1668810.0,8+ years,"Python, SQL",Part-time,2026-10-07
+J1661,Python Developer,Accenture,Hyderabad,776250.0,1056668.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-10-10
+J1662,Data Analyst,Deloitte,Bangalore,517613.0,828128.0,0-2 years,"Python, SQL",Contract,2026-06-15
+J1663,Python Developer,TCS,Mumbai,803783.0,937935.0,2-4 years,"Python, Machine Learning",Contract,2026-02-11
+J1664,SQL Developer,Deloitte,Mumbai,529754.0,790804.0,0-2 years,"Python, Machine Learning",Contract,2026-02-10
+J1665,Data Scientist,Infosys,Chennai,821067.0,972100.0,2-4 years,"Python, Machine Learning",Full-time,2026-07-20
+J1666,Data Scientist,TCS,Bangalore,1428992.0,1741595.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-06-13
+J1667,Power BI Developer,Wipro,Bangalore,577452.0,692311.0,0-2 years,"Python, SQL, Excel",Contract,2026-04-11
+J1668,Python Developer,Accenture,Mumbai,1581085.0,1871252.0,8+ years,"Python, SQL",Contract,2026-06-11
+J1669,Data Scientist,Accenture,Delhi,1390077.0,1621081.0,6-8 years,"SQL, Tableau",Contract,2026-12-22
+J1670,Data Analyst,TCS,Mumbai,1200165.0,1505159.0,6-8 years,"Python, Machine Learning",Contract,2026-05-31
+J1671,SQL Developer,Wipro,Hyderabad,1540519.0,1675301.0,8+ years,"Python, Machine Learning",Full-time,2026-07-25
+J1672,Power BI Developer,Accenture,Chennai,1504284.0,1820905.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-10-15
+J1673,Python Developer,TCS,Chennai,1243116.0,1556479.0,6-8 years,"Python, SQL",Full-time,2026-12-09
+J1674,Business Analyst,Deloitte,Hyderabad,443666.0,667330.0,0-2 years,,Part-time,2026-03-24
+J1675,Power BI Developer,Deloitte,Delhi,1493108.0,1838044.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-10-12
+J1676,Power BI Developer,HCL,Chennai,754698.0,1132802.0,2-4 years,"SQL, Tableau",Full-time,2026-03-13
+J1677,Data Analyst,Accenture,Pune,848389.0,998908.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-02-23
+J1678,Data Scientist,Wipro,Pune,1046681.0,1236205.0,4-6 years,"Python, SQL, Power BI",Part-time,2026-04-21
+J1679,Data Analyst,TCS,Bangalore,1519639.0,1851091.0,8+ years,"Python, Machine Learning",Contract,2026-04-22
+J1680,Business Analyst,TCS,Hyderabad,1235594.0,1572501.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-07-23
+J1681,Python Developer,Cognizant,Pune,556005.0,893335.0,0-2 years,"Python, SQL, Power BI, Excel",Part-time,2026-04-12
+J1682,Business Analyst,Cognizant,Hyderabad,1547883.0,5000000.0,8+ years,"SQL, Tableau",Full-time,2026-04-21
+J1683,SQL Developer,Cognizant,Delhi,877241.0,1030216.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-04-25
+J1684,Data Scientist,HCL,,1693331.0,1988330.0,8+ years,"Python, Machine Learning",Full-time,2026-07-30
+J1685,Business Analyst,Accenture,Delhi,991418.0,1175995.0,4-6 years,"Python, SQL",Contract,2026-10-02
+J1686,Power BI Developer,Deloitte,Pune,588994.0,690460.0,0-2 years,"Python, SQL",Full-time,2026-02-21
+J1687,Power BI Developer,HCL,Hyderabad,1648187.0,2012224.0,8+ years,"Python, Machine Learning",Full-time,2026-05-20
+J1688,Business Analyst,Wipro,Mumbai,1603367.0,1855638.0,8+ years,"Python, SQL, Excel",Full-time,2026-09-26
+J1689,Data Analyst,Cognizant,Delhi,388931.0,760365.0,0-2 years,"Python, Machine Learning",Contract,2026-11-01
+J1690,Power BI Developer,Infosys,Hyderabad,,1459718.0,6-8 years,"Python, SQL, Excel",Full-time,2026-11-09
+J1691,Data Scientist,TCS,Delhi,1708291.0,1966768.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-11-30
+J1692,Business Analyst,Deloitte,Pune,567693.0,703008.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-04-03
+J1693,SQL Developer,HCL,Delhi,437241.0,633031.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-06-30
+J1694,Power BI Developer,Accenture,Bangalore,,749285.0,0-2 years,"Python, SQL",Part-time,2026-06-18
+J1695,Data Scientist,Infosys,Chennai,1572490.0,1940501.0,8+ years,"Python, SQL",Contract,2026-07-07
+J1696,Data Scientist,Accenture,Chennai,1258921.0,1422886.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-06-27
+J1697,Data Analyst,Cognizant,Hyderabad,1388947.0,1732269.0,8+ years,"SQL, Excel, Power BI",Contract,2026-10-26
+J1698,Business Analyst,Deloitte,Chennai,677151.0,788769.0,2-4 years,"Python, Machine Learning",Full-time,2026-02-16
+J1699,Business Analyst,Wipro,Pune,1425037.0,1553670.0,8+ years,"Python, SQL, Power BI",Part-time,2026-02-08
+J1700,Data Analyst,Accenture,Delhi,906035.0,1101796.0,4-6 years,"Python, SQL",Contract,2026-03-31
+J1701,SQL Developer,HCL,Mumbai,545609.0,650818.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-08-25
+J1702,Power BI Developer,Deloitte,Pune,1016382.0,1255387.0,4-6 years,"SQL, Tableau",Contract,2026-12-23
+J1703,Power BI Developer,TCS,Bangalore,646123.0,796136.0,0-2 years,"Python, SQL",Full-time,2026-06-04
+J1704,Data Analyst,Deloitte,Mumbai,1171184.0,1427102.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-09-15
+J1705,Python Developer,HCL,Mumbai,1288690.0,1644348.0,6-8 years,"Python, SQL, Excel",Contract,2026-07-29
+J1706,Python Developer,Deloitte,Mumbai,801502.0,1129207.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-01-11
+J1707,Python Developer,Wipro,Bangalore,1339516.0,,6-8 years,"Python, SQL, Power BI",Contract,2026-06-21
+J1708,Power BI Developer,Infosys,Chennai,457902.0,681001.0,0-2 years,"SQL, Tableau",Part-time,2026-06-28
+J1709,Data Analyst,TCS,Bangalore,1584694.0,1781146.0,8+ years,"Python, SQL, Excel",Full-time,2026-02-11
+J1710,SQL Developer,Wipro,Bangalore,,1102246.0,4-6 years,"Python, SQL, Power BI, Excel",Contract,2026-12-05
+J1711,Data Scientist,Accenture,Mumbai,1106133.0,1303761.0,4-6 years,"Python, SQL, Excel",Part-time,2026-05-27
+J1712,Business Analyst,HCL,Bangalore,1294658.0,1686633.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-12-09
+J1713,SQL Developer,Wipro,Chennai,1165524.0,1534138.0,6-8 years,"Python, SQL, Excel",Full-time,2026-01-15
+J1714,Power BI Developer,Infosys,Chennai,505081.0,811395.0,0-2 years,"SQL, Tableau",Full-time,2026-07-27
+J1715,Power BI Developer,TCS,Chennai,763648.0,1053581.0,2-4 years,"Python, Machine Learning",Full-time,2026-11-30
+J1716,Data Analyst,Accenture,Chennai,726026.0,1081142.0,4-6 years,"Python, SQL, Excel",Part-time,2026-02-12
+J1717,Power BI Developer,Accenture,Bangalore,988610.0,1183996.0,4-6 years,"Python, Machine Learning",Part-time,2026-06-09
+J1718,Data Analyst,Accenture,Pune,432712.0,685257.0,0-2 years,"Python, Machine Learning",Contract,2026-11-19
+J1719,Data Scientist,Deloitte,Delhi,1708664.0,1931910.0,8+ years,"SQL, Tableau",Full-time,2026-12-04
+J1720,Data Scientist,Infosys,Mumbai,890219.0,1161175.0,2-4 years,"Python, SQL, Power BI, Excel",Part-time,2026-04-24
+J1721,Data Analyst,HCL,Hyderabad,818196.0,1088717.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-08-26
+J1722,Power BI Developer,Deloitte,Mumbai,1311042.0,1663884.0,6-8 years,"Python, SQL, Power BI",Full-time,2026-08-02
+J1723,Power BI Developer,Wipro,Bangalore,1303232.0,1548155.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-06-29
+J1724,SQL Developer,Deloitte,Chennai,1313921.0,1643423.0,8+ years,"Python, SQL",Part-time,2026-06-17
+J1725,Power BI Developer,Cognizant,Delhi,1268603.0,1544714.0,6-8 years,"Python, SQL, Excel",Contract,2026-06-22
+J1726,Power BI Developer,Accenture,Delhi,1601576.0,1819824.0,8+ years,"Python, SQL",Full-time,2026-03-06
+J1727,Power BI Developer,HCL,Hyderabad,901375.0,1100860.0,4-6 years,"SQL, Excel, Power BI",Part-time,2026-03-18
+J1728,Business Analyst,Infosys,Chennai,1371398.0,1768192.0,8+ years,"Python, SQL, Power BI",Part-time,2026-10-28
+J1729,Python Developer,Infosys,Hyderabad,931073.0,1246452.0,4-6 years,"Python, SQL",Part-time,2026-12-13
+J1730,Power BI Developer,Wipro,Chennai,1510734.0,1781831.0,8+ years,,Full-time,2026-10-23
+J1731,SQL Developer,Cognizant,Chennai,1056772.0,1223935.0,6-8 years,"SQL, Tableau",Contract,2026-01-28
+J1732,Data Analyst,Infosys,Chennai,601448.0,806916.0,2-4 years,"Python, SQL",Full-time,2026-02-07
+J1733,Power BI Developer,Cognizant,Hyderabad,651378.0,953636.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-05-26
+J1734,Data Analyst,Accenture,Mumbai,1442499.0,1645051.0,8+ years,"SQL, Excel, Power BI",Contract,2026-05-06
+J1735,Business Analyst,Infosys,Chennai,613382.0,740846.0,2-4 years,"SQL, Tableau",Part-time,2026-05-09
+J1736,Data Scientist,Wipro,Chennai,781441.0,1119053.0,2-4 years,"Python, Machine Learning",Part-time,2026-05-14
+J1737,SQL Developer,Infosys,Delhi,440158.0,587803.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-09-01
+J1738,Data Scientist,Accenture,Pune,1600734.0,1701249.0,8+ years,"Python, SQL, Power BI",Part-time,2026-07-10
+J1739,Data Analyst,Cognizant,Chennai,623870.0,860950.0,2-4 years,"Python, Machine Learning",Full-time,2026-11-04
+J1740,SQL Developer,HCL,Mumbai,1252542.0,1520058.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-01-13
+J1741,Python Developer,Infosys,Mumbai,815239.0,1177449.0,2-4 years,"SQL, Tableau",Part-time,2026-07-10
+J1742,Power BI Developer,TCS,Delhi,1441772.0,1792003.0,8+ years,"SQL, Excel, Power BI",Part-time,2026-05-21
+J1743,Python Developer,Cognizant,Bangalore,1277777.0,1633510.0,6-8 years,"Python, SQL, Power BI",Part-time,2026-11-08
+J1744,Python Developer,HCL,Mumbai,1570178.0,1918182.0,8+ years,"Python, SQL, Excel",Contract,2026-08-11
+J1745,Data Analyst,HCL,Bangalore,1145264.0,1510492.0,6-8 years,"Python, Machine Learning",Part-time,2026-05-02
+J1746,Python Developer,Infosys,Delhi,939265.0,1202667.0,4-6 years,"Python, SQL",Part-time,2026-12-06
+J1747,SQL Developer,Wipro,Delhi,810893.0,1010587.0,4-6 years,"Python, Machine Learning",Part-time,2026-11-14
+J1748,Data Analyst,Accenture,Chennai,964605.0,,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-12-24
+J1749,Python Developer,HCL,Delhi,1093087.0,1213798.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-06-28
+J1750,Data Scientist,Accenture,Pune,1148350.0,1496330.0,4-6 years,"Python, SQL",Full-time,2026-01-07
+J1751,Business Analyst,Infosys,Bangalore,1315431.0,5000000.0,6-8 years,"Python, SQL, Power BI",Contract,2026-10-12
+J1752,Power BI Developer,TCS,Chennai,901010.0,1073583.0,4-6 years,"Python, SQL",Part-time,2026-10-11
+J1753,Business Analyst,Wipro,Delhi,1431045.0,1647627.0,8+ years,"Python, SQL, Excel",Part-time,2026-08-10
+J1754,Business Analyst,Wipro,Pune,1061756.0,1426616.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-07-10
+J1755,Power BI Developer,Accenture,Hyderabad,1021916.0,1319139.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-01-07
+J1756,Business Analyst,TCS,Hyderabad,1300474.0,1438659.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-06-27
+J1757,Python Developer,Cognizant,Chennai,1043922.0,1317537.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-08-12
+J1758,Business Analyst,Accenture,Delhi,1008750.0,1405053.0,4-6 years,"Python, Machine Learning",Contract,2026-09-10
+J1759,SQL Developer,HCL,Chennai,,1410146.0,6-8 years,"Python, Machine Learning",Part-time,2026-07-25
+J1760,Data Scientist,HCL,Delhi,1103254.0,1424189.0,4-6 years,"Python, SQL, Power BI, Excel",Contract,2026-03-20
+J1761,Business Analyst,Deloitte,Mumbai,580143.0,747586.0,0-2 years,"Python, SQL",Full-time,2026-08-29
+J1762,SQL Developer,TCS,Bangalore,1273649.0,1670551.0,6-8 years,"Python, SQL, Excel",Full-time,2026-07-11
+J1763,SQL Developer,TCS,Delhi,873668.0,1232689.0,4-6 years,"Python, SQL, Excel",Contract,2026-03-30
+J1764,Power BI Developer,Cognizant,Pune,1554626.0,1813830.0,8+ years,"SQL, Tableau",Full-time,2026-09-29
+J1765,Data Scientist,Infosys,Chennai,1051702.0,,4-6 years,"Python, SQL, Power BI",Contract,2026-05-12
+J1766,SQL Developer,HCL,Bangalore,638388.0,897767.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-01-16
+J1767,Business Analyst,TCS,Mumbai,577608.0,848957.0,0-2 years,"SQL, Tableau",Contract,2026-11-16
+J1768,Power BI Developer,Deloitte,Bangalore,1555693.0,1785246.0,8+ years,"Python, SQL, Excel",Part-time,2026-11-23
+J1769,Data Analyst,HCL,Chennai,418689.0,542523.0,0-2 years,"Python, Machine Learning",Full-time,2026-06-20
+J1770,Business Analyst,TCS,Pune,648899.0,1039272.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-11-14
+J1771,Data Scientist,HCL,Bangalore,1027239.0,1271640.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-07-01
+J1772,SQL Developer,TCS,Mumbai,1027769.0,1173801.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-03-20
+J1773,Data Scientist,HCL,Delhi,1101785.0,1398538.0,4-6 years,"Python, SQL, Excel",Contract,2026-04-16
+J1774,Power BI Developer,Deloitte,Bangalore,664000.0,795601.0,0-2 years,"Python, Machine Learning",Contract,2026-12-29
+J1775,SQL Developer,Cognizant,Bangalore,484635.0,854244.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-07-03
+J1776,Business Analyst,Deloitte,Pune,1018821.0,1368021.0,4-6 years,"Python, SQL, Excel",Full-time,2026-01-24
+J1777,Business Analyst,Deloitte,Chennai,1122813.0,1432697.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-01-22
+J1778,Business Analyst,Accenture,Delhi,1594577.0,1831729.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-01-31
+J1779,Power BI Developer,Infosys,Bangalore,597094.0,852157.0,0-2 years,"Python, SQL, Excel",Contract,2026-10-05
+J1780,Business Analyst,HCL,Hyderabad,504354.0,697651.0,0-2 years,"Python, Machine Learning",Contract,2026-11-04
+J1781,SQL Developer,Cognizant,Delhi,1415514.0,1628078.0,8+ years,"Python, SQL, Power BI",Part-time,2026-01-16
+J1782,Python Developer,Wipro,Mumbai,869737.0,1073864.0,2-4 years,"Python, Machine Learning",Full-time,2026-06-20
+J1783,Data Analyst,TCS,Hyderabad,1097691.0,1318345.0,6-8 years,"SQL, Tableau",Part-time,2026-06-11
+J1784,Power BI Developer,Cognizant,Pune,964700.0,1311564.0,4-6 years,"Python, SQL",Contract,2026-05-20
+J1785,Power BI Developer,Deloitte,Chennai,1196276.0,1332173.0,6-8 years,"Python, SQL, Power BI",Contract,2026-07-17
+J1786,Business Analyst,Infosys,Delhi,1465830.0,1833503.0,8+ years,"Python, SQL, Power BI",Part-time,2026-12-01
+J1787,Python Developer,Wipro,Bangalore,740678.0,865957.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-08-07
+J1788,Data Analyst,Cognizant,Mumbai,660544.0,1002806.0,2-4 years,"Python, SQL, Power BI, Excel",Contract,2026-10-21
+J1789,Power BI Developer,Cognizant,Bangalore,1033656.0,1325806.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-03-12
+J1790,Business Analyst,Infosys,Bangalore,1098128.0,1281251.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-08-12
+J1791,Power BI Developer,HCL,Bangalore,865971.0,1208551.0,2-4 years,"Python, SQL",Contract,2026-05-06
+J1792,Python Developer,TCS,Chennai,685998.0,1062272.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-07-23
+J1793,Data Analyst,HCL,Delhi,921247.0,1221420.0,4-6 years,"Python, Machine Learning",Full-time,2026-07-06
+J1794,Data Scientist,Infosys,Bangalore,1442172.0,1688874.0,6-8 years,"Python, SQL",Part-time,2026-03-30
+J1795,Python Developer,Deloitte,Bangalore,627160.0,909607.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-04-27
+J1796,Power BI Developer,TCS,,660456.0,1042185.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-12-18
+J1797,Data Analyst,Accenture,Delhi,439968.0,591535.0,0-2 years,"Python, Machine Learning",Full-time,2026-04-04
+J1798,Data Scientist,Wipro,Mumbai,1702844.0,1966835.0,8+ years,"Python, SQL",Part-time,2026-03-15
+J1799,SQL Developer,TCS,Bangalore,783324.0,934596.0,2-4 years,"Python, Machine Learning",Full-time,2026-01-14
+J1800,Data Analyst,Cognizant,Pune,542634.0,937141.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-09-22
+J1801,SQL Developer,HCL,Hyderabad,1117394.0,1297189.0,6-8 years,"SQL, Tableau",Part-time,2026-01-26
+J1802,Data Analyst,Infosys,Bangalore,1188367.0,1437539.0,6-8 years,"Python, SQL, Power BI",Contract,2026-05-11
+J1803,Data Scientist,TCS,Bangalore,1247691.0,1515803.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-07-03
+J1804,Business Analyst,Wipro,Chennai,670085.0,948011.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-02-15
+J1805,Power BI Developer,Accenture,Mumbai,679353.0,809166.0,0-2 years,"Python, SQL, Power BI",Full-time,2026-05-24
+J1806,Data Scientist,Cognizant,Pune,1412317.0,1691303.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-06-03
+J1807,Data Scientist,Deloitte,Chennai,882643.0,1182261.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-03-09
+J1808,SQL Developer,Infosys,Hyderabad,701216.0,826955.0,2-4 years,"Python, SQL, Excel",Contract,2026-08-06
+J1809,Python Developer,TCS,Mumbai,834148.0,1137823.0,2-4 years,"Python, Machine Learning",Contract,2026-10-31
+J1810,Python Developer,Infosys,Bangalore,602428.0,971019.0,0-2 years,"Python, SQL, Power BI, Excel",Part-time,2026-05-10
+J1811,Python Developer,Accenture,Hyderabad,1071647.0,1466146.0,4-6 years,"Python, SQL, Power BI, Excel",Contract,2026-03-19
+J1812,Business Analyst,Infosys,Pune,1471996.0,1823067.0,8+ years,"Python, SQL, Excel",Contract,2026-12-22
+J1813,Power BI Developer,Infosys,Pune,1285965.0,1467233.0,6-8 years,"SQL, Excel, Power BI",Contract,2026-02-20
+J1814,Business Analyst,Deloitte,Pune,892884.0,1272227.0,4-6 years,"SQL, Tableau",Part-time,2026-05-15
+J1815,Business Analyst,Cognizant,Hyderabad,980534.0,1378810.0,4-6 years,"Python, SQL",Full-time,2026-01-09
+J1816,Business Analyst,Cognizant,Delhi,576708.0,901230.0,0-2 years,"Python, SQL",Full-time,2026-11-24
+J1817,Data Scientist,Cognizant,Hyderabad,830363.0,1202865.0,2-4 years,"Python, Machine Learning",Contract,2026-08-26
+J1818,Data Scientist,TCS,Bangalore,1041074.0,1316111.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-08-11
+J1819,Business Analyst,TCS,Pune,1250825.0,1379710.0,6-8 years,"Python, SQL",Full-time,2026-05-01
+J1820,Python Developer,Infosys,Mumbai,1078521.0,1359610.0,4-6 years,"Python, SQL",Full-time,2026-09-19
+J1821,SQL Developer,Wipro,Hyderabad,575233.0,751644.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-11-05
+J1822,Python Developer,Infosys,Mumbai,1330492.0,1619659.0,6-8 years,"Python, Machine Learning",Full-time,2026-08-30
+J1823,SQL Developer,Deloitte,Mumbai,1197302.0,,6-8 years,"Python, SQL",Contract,2026-12-09
+J1824,Data Analyst,TCS,Bangalore,1534523.0,1804324.0,8+ years,"Python, Machine Learning",Contract,2026-05-25
+J1825,Business Analyst,Infosys,Delhi,981751.0,1229276.0,4-6 years,"Python, SQL",Full-time,2026-12-07
+J1826,Data Analyst,Deloitte,Chennai,800755.0,952237.0,4-6 years,"Python, SQL",Full-time,2026-03-15
+J1827,Power BI Developer,TCS,Pune,714600.0,1114450.0,2-4 years,"Python, SQL",Contract,2026-10-06
+J1828,Data Scientist,TCS,Pune,1583543.0,1909111.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-08-01
+J1829,Data Scientist,Infosys,Chennai,,1709998.0,8+ years,"Python, SQL",Part-time,2026-09-03
+J1830,Data Scientist,Deloitte,Delhi,1691625.0,2078687.0,8+ years,"Python, SQL, Excel",Full-time,2026-06-26
+J1831,Business Analyst,Infosys,Bangalore,899246.0,1233242.0,2-4 years,"Python, Machine Learning",Full-time,2026-10-23
+J1832,Data Analyst,Accenture,Bangalore,971341.0,1277094.0,4-6 years,"Python, SQL",Full-time,2026-10-06
+J1833,Business Analyst,Deloitte,Chennai,1228840.0,1494607.0,6-8 years,"Python, SQL",Full-time,2026-01-18
+J1834,Data Analyst,Cognizant,Bangalore,1554530.0,1853801.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-07-05
+J1835,Data Scientist,HCL,Pune,830828.0,1204193.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-09-15
+J1836,SQL Developer,HCL,Bangalore,737227.0,993203.0,2-4 years,"Python, Machine Learning",Part-time,2026-02-01
+J1837,SQL Developer,Cognizant,Mumbai,991672.0,1359628.0,4-6 years,"Python, SQL",Full-time,2026-06-27
+J1838,Data Scientist,HCL,Pune,1068867.0,1327139.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-01-11
+J1839,Python Developer,Infosys,Mumbai,1707892.0,2027523.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-08-25
+J1840,SQL Developer,TCS,Hyderabad,1436463.0,1832364.0,8+ years,"Python, SQL, Power BI, Excel",Part-time,2026-07-08
+J1841,Python Developer,HCL,Mumbai,790836.0,1112275.0,2-4 years,"Python, SQL, Power BI",Contract,2026-12-19
+J1842,Python Developer,TCS,Pune,1524379.0,1706397.0,8+ years,"Python, SQL, Excel",Contract,2026-07-16
+J1843,Data Scientist,Deloitte,Bangalore,1783308.0,1885945.0,8+ years,"Python, SQL, Power BI, Excel",Contract,2026-03-16
+J1844,Data Scientist,Deloitte,Pune,1581831.0,1795599.0,8+ years,"Python, SQL, Power BI",Part-time,2026-07-19
+J1845,SQL Developer,Wipro,Bangalore,988741.0,1107571.0,4-6 years,"Python, SQL, Power BI",Part-time,2026-09-18
+J1846,SQL Developer,Wipro,Delhi,886627.0,1263969.0,4-6 years,"Python, SQL",Contract,2026-12-02
+J1847,Python Developer,TCS,Pune,863122.0,1078382.0,2-4 years,"Python, Machine Learning",Full-time,2026-11-05
+J1848,Data Scientist,Wipro,Hyderabad,664765.0,1009925.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-09-12
+J1849,SQL Developer,Infosys,Pune,689177.0,1009503.0,2-4 years,"Python, Machine Learning",Full-time,2026-12-18
+J1850,Data Scientist,TCS,Hyderabad,1101673.0,1242543.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-03-31
+J1851,Data Analyst,Deloitte,Delhi,1010835.0,1391625.0,6-8 years,"Python, SQL, Power BI",Part-time,2026-02-18
+J1852,Power BI Developer,HCL,Hyderabad,977527.0,1244518.0,4-6 years,"Python, SQL",Part-time,2026-07-04
+J1853,SQL Developer,HCL,Hyderabad,1133491.0,1330984.0,6-8 years,"Python, SQL, Excel",Contract,2026-12-08
+J1854,Data Scientist,TCS,Bangalore,1437508.0,1752347.0,6-8 years,"Python, SQL, Power BI",Part-time,2026-07-15
+J1855,Python Developer,HCL,Bangalore,1593158.0,1880193.0,8+ years,"Python, Machine Learning",Part-time,2026-01-16
+J1856,SQL Developer,Cognizant,Chennai,665938.0,978307.0,2-4 years,"SQL, Tableau",Full-time,2026-07-25
+J1857,Power BI Developer,Accenture,Pune,1173132.0,1550642.0,6-8 years,"Python, Machine Learning",Part-time,2026-09-06
+J1858,Python Developer,Cognizant,Pune,1009236.0,1375530.0,4-6 years,"Python, SQL",Contract,2026-09-23
+J1859,Data Scientist,TCS,Mumbai,1749369.0,2145748.0,8+ years,"Python, SQL",Contract,2026-05-08
+J1860,Business Analyst,Cognizant,Chennai,1118685.0,1455953.0,6-8 years,,Part-time,2026-02-18
+J1861,Data Analyst,TCS,Mumbai,655294.0,1020954.0,2-4 years,"Python, SQL, Power BI",Contract,2026-10-23
+J1862,Power BI Developer,Wipro,Hyderabad,,1467572.0,6-8 years,"Python, SQL",Full-time,2026-04-07
+J1863,Power BI Developer,Cognizant,Hyderabad,581515.0,889652.0,0-2 years,"Python, Machine Learning",Contract,2026-04-05
+J1864,Power BI Developer,TCS,Chennai,739711.0,935766.0,2-4 years,"SQL, Excel, Power BI",Full-time,2026-08-26
+J1865,Python Developer,Accenture,Delhi,656887.0,916649.0,0-2 years,"Python, Machine Learning",Full-time,2026-12-19
+J1866,Data Analyst,Cognizant,Hyderabad,624952.0,905727.0,2-4 years,"SQL, Tableau",Part-time,2026-11-19
+J1867,Data Analyst,HCL,Mumbai,1564049.0,1915112.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-07-17
+J1868,Business Analyst,Cognizant,Mumbai,652768.0,815553.0,0-2 years,,Full-time,2026-10-02
+J1869,Business Analyst,HCL,Delhi,625123.0,881811.0,2-4 years,"Python, SQL",Part-time,2026-10-10
+J1870,Data Scientist,HCL,Delhi,1391556.0,1750026.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-09-03
+J1871,Business Analyst,HCL,Chennai,1153144.0,1449436.0,6-8 years,"SQL, Tableau",Contract,2026-06-07
+J1872,Python Developer,Accenture,Mumbai,571012.0,801205.0,0-2 years,"Python, Machine Learning",Part-time,2026-02-26
+J1873,Business Analyst,Accenture,Bangalore,593794.0,844656.0,0-2 years,"Python, SQL, Excel",Part-time,2026-10-15
+J1874,Python Developer,TCS,Pune,1220901.0,1381087.0,6-8 years,"SQL, Tableau",Part-time,2026-07-30
+J1875,SQL Developer,Accenture,Pune,549980.0,798981.0,0-2 years,"SQL, Tableau",Full-time,2026-02-16
+J1876,Business Analyst,Wipro,Delhi,1202863.0,1515772.0,6-8 years,"Python, SQL, Excel",Contract,2026-01-27
+J1877,Python Developer,Infosys,Hyderabad,556183.0,854293.0,0-2 years,"SQL, Tableau",Contract,2026-09-11
+J1878,Data Scientist,HCL,Pune,834266.0,1100546.0,2-4 years,"Python, Machine Learning",Contract,2026-07-20
+J1879,Power BI Developer,HCL,Hyderabad,1038285.0,1264968.0,4-6 years,"Python, SQL",Full-time,2026-06-07
+J1880,Python Developer,HCL,Pune,526378.0,842135.0,0-2 years,"Python, Machine Learning",Contract,2026-05-30
+J1881,Python Developer,Cognizant,Delhi,1339872.0,1707486.0,6-8 years,"Python, SQL, Power BI, Excel",Full-time,2026-05-20
+J1882,Data Scientist,Cognizant,Pune,826523.0,1144518.0,2-4 years,"Python, SQL",Contract,2026-12-25
+J1883,Data Scientist,Infosys,Bangalore,1526102.0,1659187.0,6-8 years,"Python, SQL",Full-time,2026-10-24
+J1884,Business Analyst,Accenture,Hyderabad,732709.0,992497.0,2-4 years,"Python, SQL, Excel",Contract,2026-11-10
+J1885,Business Analyst,Deloitte,Bangalore,1270805.0,1640806.0,6-8 years,"Python, SQL, Power BI, Excel",Contract,2026-12-23
+J1886,Data Scientist,Wipro,Hyderabad,862428.0,1088472.0,2-4 years,"SQL, Excel, Power BI",Part-time,2026-06-25
+J1887,Data Analyst,HCL,Mumbai,626743.0,830218.0,2-4 years,"Python, Machine Learning",Contract,2026-05-14
+J1888,Business Analyst,Cognizant,Bangalore,643730.0,903750.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-01-24
+J1889,Power BI Developer,Accenture,Hyderabad,1058535.0,1388598.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-11-06
+J1890,Business Analyst,HCL,Pune,536381.0,735849.0,0-2 years,"SQL, Tableau",Contract,2026-06-04
+J1891,Power BI Developer,TCS,Pune,543832.0,676164.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-06-29
+J1892,Data Scientist,Accenture,Pune,1072581.0,1247699.0,4-6 years,"SQL, Excel, Power BI",Contract,2026-04-17
+J1893,Business Analyst,Wipro,Pune,799955.0,1173913.0,2-4 years,"Python, Machine Learning",Full-time,2026-01-13
+J1894,Data Analyst,TCS,Mumbai,1540601.0,1901777.0,8+ years,"Python, Machine Learning",Full-time,2026-02-09
+J1895,Power BI Developer,Cognizant,Hyderabad,1025645.0,1152150.0,4-6 years,"SQL, Tableau",Contract,2026-12-28
+J1896,Python Developer,Infosys,Hyderabad,1029397.0,,4-6 years,"SQL, Tableau",Part-time,2026-01-20
+J1897,Data Analyst,Infosys,Bangalore,450726.0,599510.0,0-2 years,"Python, Machine Learning",Part-time,2026-02-14
+J1898,Business Analyst,Deloitte,Mumbai,1020341.0,1397034.0,4-6 years,"Python, SQL, Excel",Contract,2026-12-06
+J1899,Data Analyst,HCL,Pune,444624.0,738211.0,0-2 years,"SQL, Tableau",Full-time,2026-10-16
+J1900,Power BI Developer,Infosys,Mumbai,754116.0,1029974.0,2-4 years,"Python, SQL, Excel",Contract,2026-11-16
+J1901,Data Scientist,HCL,Bangalore,1240198.0,1444870.0,4-6 years,"Python, Machine Learning",Contract,2026-01-16
+J1902,Power BI Developer,Deloitte,Hyderabad,,1172969.0,2-4 years,"Python, Machine Learning",Contract,2026-06-18
+J1903,Business Analyst,Cognizant,Pune,1604627.0,1867631.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-12-13
+J1904,Power BI Developer,Infosys,Mumbai,986505.0,1250909.0,4-6 years,"Python, SQL",Part-time,2026-07-06
+J1905,Power BI Developer,Cognizant,Pune,672991.0,877592.0,2-4 years,"SQL, Tableau",Part-time,2026-02-17
+J1906,Business Analyst,TCS,Mumbai,1559126.0,1707123.0,8+ years,"Python, SQL",Part-time,2026-01-03
+J1907,SQL Developer,Accenture,Hyderabad,468090.0,821568.0,0-2 years,"Python, SQL, Excel",Contract,2026-08-11
+J1908,Power BI Developer,Deloitte,Bangalore,1032574.0,1431919.0,4-6 years,"Python, Machine Learning",Part-time,2026-05-03
+J1909,Data Analyst,HCL,Hyderabad,841720.0,1129597.0,4-6 years,"Python, SQL, Power BI, Excel",Part-time,2026-03-25
+J1910,Business Analyst,HCL,Hyderabad,774699.0,1066695.0,2-4 years,"Python, SQL",Contract,2026-03-10
+J1911,Data Analyst,Infosys,Bangalore,1248542.0,1450031.0,6-8 years,,Full-time,2026-03-17
+J1912,Python Developer,Deloitte,Mumbai,628032.0,1018212.0,0-2 years,,Contract,2026-08-06
+J1913,SQL Developer,Cognizant,Mumbai,687819.0,934511.0,2-4 years,"Python, SQL, Excel",Part-time,2026-09-11
+J1914,Business Analyst,TCS,Mumbai,986060.0,1357283.0,4-6 years,"Python, Machine Learning",Part-time,2026-07-27
+J1915,Business Analyst,Cognizant,Bangalore,1028477.0,1284119.0,4-6 years,"Python, SQL, Excel",Contract,2026-12-24
+J1916,Power BI Developer,TCS,Hyderabad,530703.0,803220.0,0-2 years,"SQL, Tableau",Part-time,2026-01-21
+J1917,Business Analyst,Deloitte,Mumbai,1278865.0,1440057.0,6-8 years,"Python, SQL",Contract,2026-09-28
+J1918,Power BI Developer,Infosys,Bangalore,1680277.0,1887321.0,8+ years,"Python, SQL, Excel",Full-time,2026-12-08
+J1919,Data Analyst,Cognizant,Delhi,1040733.0,1259889.0,6-8 years,"Python, SQL, Excel",Part-time,2026-08-13
+J1920,Data Analyst,TCS,Chennai,767948.0,984476.0,4-6 years,"SQL, Tableau",Contract,2026-08-08
+J1921,SQL Developer,Cognizant,Bangalore,799434.0,966051.0,2-4 years,"Python, Machine Learning",Full-time,2026-10-29
+J1922,Data Scientist,TCS,Chennai,1681494.0,2001471.0,8+ years,"SQL, Excel, Power BI",Full-time,2026-06-02
+J1923,Power BI Developer,Cognizant,Hyderabad,1533332.0,1762861.0,8+ years,"Python, SQL",Contract,2026-03-23
+J1924,Data Scientist,Accenture,Delhi,1646551.0,1756134.0,8+ years,"Python, Machine Learning",Part-time,2026-07-31
+J1925,Data Analyst,TCS,Chennai,829299.0,1195584.0,4-6 years,"Python, SQL, Power BI",Full-time,2026-11-07
+J1926,Business Analyst,Deloitte,Pune,1579840.0,1685417.0,8+ years,"Python, SQL",Full-time,2026-02-04
+J1927,Python Developer,Accenture,Hyderabad,625119.0,1024096.0,0-2 years,,Contract,2026-09-24
+J1928,Data Analyst,HCL,Bangalore,872340.0,1036224.0,4-6 years,"Python, Machine Learning",Part-time,2026-03-16
+J1929,Data Scientist,Infosys,Chennai,714650.0,991840.0,2-4 years,"Python, SQL",Part-time,2026-09-16
+J1930,Python Developer,HCL,Chennai,716559.0,1111037.0,2-4 years,"Python, SQL, Power BI",Full-time,2026-01-02
+J1931,Data Analyst,HCL,Pune,1145251.0,1427298.0,6-8 years,"Python, SQL",Full-time,2026-01-28
+J1932,SQL Developer,TCS,Pune,954003.0,1350955.0,4-6 years,"Python, SQL, Excel",Contract,2026-08-05
+J1933,Data Scientist,Wipro,Chennai,1570183.0,1671315.0,8+ years,"SQL, Excel, Power BI",Contract,2026-12-23
+J1934,SQL Developer,Accenture,,1243169.0,1603698.0,6-8 years,"Python, Machine Learning",Full-time,2026-06-18
+J1935,Data Scientist,Deloitte,Bangalore,1651582.0,2035027.0,8+ years,"Python, Machine Learning",Part-time,2026-03-31
+J1936,SQL Developer,TCS,Pune,891629.0,1171953.0,4-6 years,"Python, SQL, Power BI",Part-time,2026-01-02
+J1937,Python Developer,Deloitte,Delhi,995945.0,1238127.0,4-6 years,"Python, SQL, Power BI",Part-time,2026-01-02
+J1938,Business Analyst,TCS,Hyderabad,1019743.0,1205898.0,4-6 years,"SQL, Tableau",Contract,2026-01-29
+J1939,Power BI Developer,HCL,Pune,1064233.0,1247282.0,4-6 years,"SQL, Tableau",Full-time,2026-02-01
+J1940,Data Scientist,Wipro,Chennai,1570104.0,1798008.0,8+ years,"SQL, Tableau",Contract,2026-04-10
+J1941,Data Scientist,TCS,Delhi,728045.0,980517.0,0-2 years,"SQL, Tableau",Full-time,2026-05-23
+J1942,Power BI Developer,Infosys,Mumbai,1585809.0,1709532.0,8+ years,"Python, Machine Learning",Contract,2026-08-19
+J1943,Business Analyst,Deloitte,Hyderabad,975929.0,1199128.0,4-6 years,"Python, SQL",Contract,2026-04-12
+J1944,SQL Developer,Infosys,Bangalore,793144.0,916669.0,2-4 years,"Python, SQL, Power BI, Excel",Contract,2026-07-15
+J1945,Power BI Developer,TCS,Pune,1212763.0,1519487.0,6-8 years,"SQL, Tableau",Contract,2026-03-10
+J1946,SQL Developer,TCS,Bangalore,484929.0,747363.0,0-2 years,"Python, SQL, Excel",Part-time,2026-07-04
+J1947,SQL Developer,Deloitte,Chennai,611954.0,904895.0,2-4 years,"Python, SQL",Contract,2026-03-09
+J1948,Data Analyst,Wipro,Mumbai,1128760.0,1230228.0,6-8 years,"SQL, Excel, Power BI",Part-time,2026-09-03
+J1949,Data Analyst,Accenture,Pune,703565.0,1050678.0,2-4 years,"Python, SQL",Full-time,2026-09-13
+J1950,Business Analyst,HCL,Chennai,676870.0,795044.0,2-4 years,"SQL, Tableau",Contract,2026-02-24
+J1951,Business Analyst,Cognizant,Hyderabad,744919.0,1104555.0,2-4 years,"Python, SQL, Power BI",Contract,2026-07-17
+J1952,Business Analyst,Accenture,Bangalore,675235.0,1017348.0,0-2 years,"Python, SQL",Full-time,2026-01-11
+J1953,Data Scientist,Infosys,Bangalore,1753803.0,2045983.0,8+ years,"Python, Machine Learning",Contract,2026-07-06
+J1954,Power BI Developer,Infosys,Hyderabad,1509479.0,1684840.0,8+ years,"Python, Machine Learning",Contract,2026-11-09
+J1955,Data Analyst,Wipro,Pune,426862.0,768397.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-11-24
+J1956,Business Analyst,HCL,Hyderabad,711826.0,1000163.0,2-4 years,"SQL, Excel, Power BI",Contract,2026-06-19
+J1957,SQL Developer,HCL,Pune,448052.0,726182.0,0-2 years,"Python, SQL, Power BI",Part-time,2026-04-07
+J1958,Data Scientist,Accenture,Mumbai,980356.0,1247218.0,2-4 years,"Python, Machine Learning",Full-time,2026-09-26
+J1959,Python Developer,TCS,Hyderabad,539969.0,914517.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-10-13
+J1960,Data Scientist,Cognizant,Chennai,861313.0,,2-4 years,"Python, SQL, Power BI",Full-time,2026-05-14
+J1961,Power BI Developer,Infosys,Delhi,635544.0,982399.0,2-4 years,"Python, SQL",Part-time,2026-11-26
+J1962,Data Analyst,HCL,Delhi,1440021.0,1817770.0,8+ years,"Python, SQL",Contract,2026-09-19
+J1963,Data Scientist,HCL,Pune,1141218.0,1336553.0,4-6 years,"Python, SQL, Excel",Contract,2026-03-30
+J1964,SQL Developer,Cognizant,Chennai,549402.0,741058.0,2-4 years,"SQL, Tableau",Part-time,2026-03-20
+J1965,Python Developer,Infosys,Chennai,1466745.0,1825534.0,8+ years,"Python, SQL",Part-time,2026-05-11
+J1966,Data Scientist,Wipro,Delhi,,749911.0,0-2 years,"SQL, Excel, Power BI",Part-time,2026-11-25
+J1967,Python Developer,Accenture,Mumbai,1076749.0,1223280.0,4-6 years,"SQL, Excel, Power BI",Full-time,2026-05-09
+J1968,Business Analyst,Accenture,Mumbai,781560.0,932028.0,2-4 years,"Python, Machine Learning",Full-time,2026-06-22
+J1969,Business Analyst,Deloitte,Pune,982637.0,1344809.0,4-6 years,"Python, SQL, Power BI, Excel",Contract,2026-05-23
+J1970,Python Developer,HCL,Bangalore,613503.0,768446.0,0-2 years,"SQL, Excel, Power BI",Contract,2026-03-05
+J1971,Business Analyst,Infosys,Bangalore,1108701.0,1289900.0,4-6 years,"Python, SQL",Full-time,2026-11-17
+J1972,SQL Developer,Wipro,Delhi,733302.0,928270.0,2-4 years,"Python, SQL",Full-time,2026-11-17
+J1973,SQL Developer,Wipro,Bangalore,968607.0,1085546.0,4-6 years,"Python, SQL, Excel",Part-time,2026-12-22
+J1974,Python Developer,Cognizant,Chennai,866459.0,1185286.0,4-6 years,"Python, SQL",Part-time,2026-09-05
+J1975,Power BI Developer,Deloitte,,1616282.0,1852542.0,8+ years,"Python, SQL, Power BI",Full-time,2026-04-09
+J1976,Business Analyst,TCS,Bangalore,555796.0,825999.0,0-2 years,"Python, SQL, Power BI, Excel",Contract,2026-01-31
+J1977,Business Analyst,HCL,Chennai,618322.0,948568.0,2-4 years,"Python, SQL, Power BI",Part-time,2026-04-11
+J1978,SQL Developer,Infosys,Mumbai,1315251.0,1701201.0,6-8 years,"SQL, Tableau",Full-time,2026-11-13
+J1979,Power BI Developer,Accenture,Bangalore,672127.0,1034724.0,0-2 years,"Python, SQL",Full-time,2026-06-18
+J1980,Data Analyst,Wipro,Chennai,431932.0,629102.0,0-2 years,"SQL, Excel, Power BI",Full-time,2026-02-17
+J1981,Data Analyst,TCS,Hyderabad,926516.0,1034473.0,4-6 years,"Python, Machine Learning",Contract,2026-12-25
+J1982,SQL Developer,TCS,Delhi,920707.0,1185985.0,4-6 years,"Python, Machine Learning",Full-time,2026-03-10
+J1983,Power BI Developer,TCS,Bangalore,1335867.0,1524647.0,6-8 years,"Python, Machine Learning",Contract,2026-12-31
+J1984,Data Scientist,HCL,Chennai,1338534.0,1498625.0,6-8 years,"Python, SQL, Power BI",Contract,2026-01-15
+J1985,Python Developer,TCS,Mumbai,575424.0,755046.0,0-2 years,"Python, SQL",Contract,2026-01-04
+J1986,Data Scientist,Cognizant,Pune,1157580.0,1370976.0,4-6 years,"Python, SQL",Contract,2026-09-27
+J1987,Data Analyst,TCS,Chennai,1277626.0,1568487.0,8+ years,"Python, SQL, Power BI",Part-time,2026-04-03
+J1988,Python Developer,Deloitte,Hyderabad,1648049.0,1804145.0,8+ years,"Python, SQL, Power BI, Excel",Full-time,2026-08-19
+J1989,Data Scientist,TCS,Chennai,1675282.0,2015628.0,8+ years,"Python, SQL, Excel",Full-time,2026-11-22
+J1990,Business Analyst,Cognizant,Bangalore,1312665.0,1680781.0,6-8 years,"Python, SQL, Power BI",Contract,2026-01-11
+J1991,Business Analyst,Infosys,Mumbai,1514912.0,1627791.0,8+ years,"Python, SQL, Excel",Part-time,2026-01-07
+J1992,Business Analyst,Infosys,Delhi,1221953.0,1428363.0,6-8 years,"SQL, Excel, Power BI",Full-time,2026-08-16
+J1993,Data Analyst,TCS,Delhi,959976.0,1350371.0,4-6 years,"Python, Machine Learning",Full-time,2026-11-13
+J1994,Power BI Developer,Wipro,Pune,639525.0,962982.0,0-2 years,"Python, SQL, Power BI, Excel",Full-time,2026-08-25
+J1995,Data Scientist,TCS,Delhi,848877.0,1066246.0,2-4 years,"Python, SQL, Excel",Part-time,2026-01-31
+J1996,Business Analyst,HCL,Mumbai,800103.0,1025798.0,2-4 years,"Python, SQL, Power BI",Contract,2026-01-24
+J1997,SQL Developer,HCL,Delhi,841007.0,1047840.0,4-6 years,"Python, SQL, Power BI",Part-time,2026-02-06
+J1998,Data Scientist,TCS,Pune,1075993.0,1269643.0,4-6 years,"Python, Machine Learning",Contract,2026-02-22
+J1999,Python Developer,Wipro,Hyderabad,1074527.0,1445861.0,4-6 years,"Python, SQL, Power BI, Excel",Full-time,2026-04-10
+J2000,Power BI Developer,HCL,Hyderabad,1167322.0,1392926.0,6-8 years,"Python, SQL, Power BI, Excel",Part-time,2026-01-29
